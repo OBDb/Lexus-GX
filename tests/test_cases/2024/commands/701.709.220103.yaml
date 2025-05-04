@@ -1,0 +1,292 @@
+command_id: 701.709.220103
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '70907620103020025E9'
+  expected_values:
+    LEXUS_ODO: 9705
+- response: 70907620103020025EA
+  expected_values:
+    LEXUS_ODO: 9706
+- response: 70907620103020025EB
+  expected_values:
+    LEXUS_ODO: 9707
+- response: 70907620103020025EC
+  expected_values:
+    LEXUS_ODO: 9708
+- response: 70907620103020025ED
+  expected_values:
+    LEXUS_ODO: 9709
+- response: 70907620103020025EE
+  expected_values:
+    LEXUS_ODO: 9710
+- response: 70907620103020025EF
+  expected_values:
+    LEXUS_ODO: 9711
+- response: 70907620103020025F0
+  expected_values:
+    LEXUS_ODO: 9712
+- response: 70907620103020025F1
+  expected_values:
+    LEXUS_ODO: 9713
+- response: 70907620103020025F2
+  expected_values:
+    LEXUS_ODO: 9714
+- response: 70907620103020025F3
+  expected_values:
+    LEXUS_ODO: 9715
+- response: 70907620103020025F4
+  expected_values:
+    LEXUS_ODO: 9716
+- response: 70907620103020025F5
+  expected_values:
+    LEXUS_ODO: 9717
+- response: 70907620103020025F6
+  expected_values:
+    LEXUS_ODO: 9718
+- response: 70907620103020025F7
+  expected_values:
+    LEXUS_ODO: 9719
+- response: 70907620103020025F8
+  expected_values:
+    LEXUS_ODO: 9720
+- response: 70907620103020025F9
+  expected_values:
+    LEXUS_ODO: 9721
+- response: 70907620103020025FA
+  expected_values:
+    LEXUS_ODO: 9722
+- response: 70907620103020025FB
+  expected_values:
+    LEXUS_ODO: 9723
+- response: 70907620103020025FC
+  expected_values:
+    LEXUS_ODO: 9724
+- response: 70907620103020025FD
+  expected_values:
+    LEXUS_ODO: 9725
+- response: 70907620103020025FE
+  expected_values:
+    LEXUS_ODO: 9726
+- response: 70907620103020025FF
+  expected_values:
+    LEXUS_ODO: 9727
+- response: '7090762010302002600'
+  expected_values:
+    LEXUS_ODO: 9728
+- response: '7090762010302002601'
+  expected_values:
+    LEXUS_ODO: 9729
+- response: '7090762010302002602'
+  expected_values:
+    LEXUS_ODO: 9730
+- response: '7090762010302002603'
+  expected_values:
+    LEXUS_ODO: 9731
+- response: '7090762010302002604'
+  expected_values:
+    LEXUS_ODO: 9732
+- response: '7090762010302002605'
+  expected_values:
+    LEXUS_ODO: 9733
+- response: '7090762010302002606'
+  expected_values:
+    LEXUS_ODO: 9734
+- response: '7090762010302002607'
+  expected_values:
+    LEXUS_ODO: 9735
+- response: '7090762010302002608'
+  expected_values:
+    LEXUS_ODO: 9736
+- response: '7090762010302002609'
+  expected_values:
+    LEXUS_ODO: 9737
+- response: 709076201030200260A
+  expected_values:
+    LEXUS_ODO: 9738
+- response: 709076201030200260B
+  expected_values:
+    LEXUS_ODO: 9739
+- response: 709076201030200260C
+  expected_values:
+    LEXUS_ODO: 9740
+- response: 709076201030200260D
+  expected_values:
+    LEXUS_ODO: 9741
+- response: '7090762010302002623'
+  expected_values:
+    LEXUS_ODO: 9763
+- response: '7090762010302002624'
+  expected_values:
+    LEXUS_ODO: 9764
+- response: '7090762010302002625'
+  expected_values:
+    LEXUS_ODO: 9765
+- response: '7090762010302002626'
+  expected_values:
+    LEXUS_ODO: 9766
+- response: '7090762010302002627'
+  expected_values:
+    LEXUS_ODO: 9767
+- response: '7090762010302002628'
+  expected_values:
+    LEXUS_ODO: 9768
+- response: '7090762010302002629'
+  expected_values:
+    LEXUS_ODO: 9769
+- response: 709076201030200262A
+  expected_values:
+    LEXUS_ODO: 9770
+- response: 709076201030200262B
+  expected_values:
+    LEXUS_ODO: 9771
+- response: 709076201030200262C
+  expected_values:
+    LEXUS_ODO: 9772
+- response: 709076201030200262D
+  expected_values:
+    LEXUS_ODO: 9773
+- response: 709076201030200262E
+  expected_values:
+    LEXUS_ODO: 9774
+- response: 709076201030200262F
+  expected_values:
+    LEXUS_ODO: 9775
+- response: '7090762010302002630'
+  expected_values:
+    LEXUS_ODO: 9776
+- response: '7090762010302002631'
+  expected_values:
+    LEXUS_ODO: 9777
+- response: '7090762010302002632'
+  expected_values:
+    LEXUS_ODO: 9778
+- response: '7090762010302002633'
+  expected_values:
+    LEXUS_ODO: 9779
+- response: '7090762010302002634'
+  expected_values:
+    LEXUS_ODO: 9780
+- response: '7090762010302002635'
+  expected_values:
+    LEXUS_ODO: 9781
+- response: '7090762010302002636'
+  expected_values:
+    LEXUS_ODO: 9782
+- response: '7090762010302002637'
+  expected_values:
+    LEXUS_ODO: 9783
+- response: '7090762010302002638'
+  expected_values:
+    LEXUS_ODO: 9784
+- response: '7090762010302002639'
+  expected_values:
+    LEXUS_ODO: 9785
+- response: 709076201030200263A
+  expected_values:
+    LEXUS_ODO: 9786
+- response: 709076201030200263B
+  expected_values:
+    LEXUS_ODO: 9787
+- response: 709076201030200263C
+  expected_values:
+    LEXUS_ODO: 9788
+- response: 709076201030200263D
+  expected_values:
+    LEXUS_ODO: 9789
+- response: 709076201030200263E
+  expected_values:
+    LEXUS_ODO: 9790
+- response: 709076201030200263F
+  expected_values:
+    LEXUS_ODO: 9791
+- response: '7090762010302002640'
+  expected_values:
+    LEXUS_ODO: 9792
+- response: '7090762010302002641'
+  expected_values:
+    LEXUS_ODO: 9793
+- response: '7090762010302002642'
+  expected_values:
+    LEXUS_ODO: 9794
+- response: '7090762010302002643'
+  expected_values:
+    LEXUS_ODO: 9795
+- response: '7090762010302002644'
+  expected_values:
+    LEXUS_ODO: 9796
+- response: '7090762010302002645'
+  expected_values:
+    LEXUS_ODO: 9797
+- response: '7090762010302002646'
+  expected_values:
+    LEXUS_ODO: 9798
+- response: '7090762010302002647'
+  expected_values:
+    LEXUS_ODO: 9799
+- response: '7090762010302002648'
+  expected_values:
+    LEXUS_ODO: 9800
+- response: 709076201030200264A
+  expected_values:
+    LEXUS_ODO: 9802
+- response: 709076201030200264B
+  expected_values:
+    LEXUS_ODO: 9803
+- response: 709076201030200264C
+  expected_values:
+    LEXUS_ODO: 9804
+- response: 709076201030200264D
+  expected_values:
+    LEXUS_ODO: 9805
+- response: '7090762010302002659'
+  expected_values:
+    LEXUS_ODO: 9817
+- response: 709076201030200265A
+  expected_values:
+    LEXUS_ODO: 9818
+- response: 709076201030200265B
+  expected_values:
+    LEXUS_ODO: 9819
+- response: 709076201030200265C
+  expected_values:
+    LEXUS_ODO: 9820
+- response: 709076201030200265D
+  expected_values:
+    LEXUS_ODO: 9821
+- response: 709076201030200265E
+  expected_values:
+    LEXUS_ODO: 9822
+- response: 709076201030200265F
+  expected_values:
+    LEXUS_ODO: 9823
+- response: '7090762010302002660'
+  expected_values:
+    LEXUS_ODO: 9824
+- response: '7090762010302002661'
+  expected_values:
+    LEXUS_ODO: 9825
+- response: '7090762010302002662'
+  expected_values:
+    LEXUS_ODO: 9826
+- response: '7090762010302002663'
+  expected_values:
+    LEXUS_ODO: 9827
+- response: '7090762010302002664'
+  expected_values:
+    LEXUS_ODO: 9828
+- response: '7090762010302002665'
+  expected_values:
+    LEXUS_ODO: 9829
+- response: '7090762010302002666'
+  expected_values:
+    LEXUS_ODO: 9830
+- response: '7090762010302002667'
+  expected_values:
+    LEXUS_ODO: 9831
+- response: '7090762010302002668'
+  expected_values:
+    LEXUS_ODO: 9832
+- response: '7090762010302002669'
+  expected_values:
+    LEXUS_ODO: 9833

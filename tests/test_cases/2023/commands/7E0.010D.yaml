@@ -1,0 +1,16 @@
+command_id: 7E0.010D
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    7E810236151000003E5
+    7E82101041C7D366A6A
+    7E8223333043D12A302
+    7E8233F00107FFD8CE5
+    7E82480008000800000
+    7E82500000000000000
+    7E803410D6C
+  expected_values:
+    LEXUS_EOT: 106
+    LEXUS_PREV_TRIP_DST: 10.52
+    LEXUS_VVTOT: 125

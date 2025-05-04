@@ -1,0 +1,29 @@
+command_id: 7E0.0104
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    7C8037F2211
+    7DF02010C
+    7E804410C13F2
+    7DF020111
+    7E803411141
+    7DF020104
+    7E8034104D3
+  expected_values:
+    RPM: 1276.5
+- response: |-
+    7E810236151000003E5
+    7E8210101AC74385C5C
+    7E8223333041C0ED101
+    7E823D800107FE68CE5
+    7E82480008000800000
+    7E82500000000000000
+    7E803410D23
+    7E804410C17DA
+    7E803411135
+    7E803410493
+  expected_values:
+    LEXUS_EOT: 92
+    LEXUS_PREV_TRIP_DST: 4.28
+    LEXUS_VVTOT: 116
