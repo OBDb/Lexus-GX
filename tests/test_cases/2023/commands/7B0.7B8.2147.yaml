@@ -1,0 +1,265 @@
+command_id: 7B0.7B8.2147
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7B807614700007F7FF7
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000807E22
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000807F54
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000807FEB
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000807FF1
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000807FF3
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000807FFD
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000807FFF
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000808001
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000808002
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000808003
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000808006
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000808008
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000808009
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147000080800A
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000808011
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470000808016
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147000080801A
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470001807FE5
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470001807FEF
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470001808000
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147000180800A
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147000180800D
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470001808013
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147000280712C
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470002807FF8
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470003807FE2
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470003807FF1
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470003808004
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470003808017
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470009807FE0
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B807614700FB7F7FD4
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B807614700FB868277
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B807614700FF807FF6
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B807614700FF808002
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B807614700FF808007
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B807614700FF80800F
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147010080800F
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147010080801F
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147010080802A
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147010080803F
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470101808016
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B807614701F7808016
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B807614701F97E7EAD
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B807614701FF80801B
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470200808015
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470200808023
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B807614702008485E2
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470201807FFD
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470201808008
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470201808020
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470300808027
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470301808010
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B807614707029B94FE
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B807614708019A947D
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B807614709008580C3
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B80761470A058B83E4
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147F30369779A
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147F502767DD7
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FB037C7AD1
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FC007E7FB9
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FCFF767794
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FD00807FD3
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FD00807FD9
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FD027F7FD3
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FE007F7FCA
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FE00807FE9
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FE00807FEC
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FE00807FF8
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FE00807FFC
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FE00808000
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FE01807FE0
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FE01807FE9
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FE01807FEC
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FE01807FFC
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FE02807FED
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FEFB807FF1
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FEFF807FED
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FF00807FEA
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FF00807FF1
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FF00808004
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FF01807FE3
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FF01807FEC
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FF01807FF4
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FF01808000
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FFFE808001
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000
+- response: 7B8076147FFFF807FF2
+  expected_values:
+    LEXUS_STEER_ANGLE: -1000

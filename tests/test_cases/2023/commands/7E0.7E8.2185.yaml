@@ -1,0 +1,40 @@
+command_id: 7E0.7E8.2185
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E8056185010010'
+  expected_values:
+    LEXUS_GEAR: 1
+    LEXUS_GEAR_LOCKUP: 0
+- response: '7E8056185020010'
+  expected_values:
+    LEXUS_GEAR: 2
+    LEXUS_GEAR_LOCKUP: 0
+- response: '7E8056185030010'
+  expected_values:
+    LEXUS_GEAR: 3
+    LEXUS_GEAR_LOCKUP: 0
+- response: '7E8056185040010'
+  expected_values:
+    LEXUS_GEAR: 4
+    LEXUS_GEAR_LOCKUP: 0
+- response: '7E8056185050010'
+  expected_values:
+    LEXUS_GEAR: 5
+    LEXUS_GEAR_LOCKUP: 0
+- response: '7E8056185058018'
+  expected_values:
+    LEXUS_GEAR: 5
+    LEXUS_GEAR_LOCKUP: 1
+- response: '7E8056185060010'
+  expected_values:
+    LEXUS_GEAR: 6
+    LEXUS_GEAR_LOCKUP: 0
+- response: '7E8056185068000'
+  expected_values:
+    LEXUS_GEAR: 6
+    LEXUS_GEAR_LOCKUP: 1
+- response: '7E8056185068018'
+  expected_values:
+    LEXUS_GEAR: 6
+    LEXUS_GEAR_LOCKUP: 1
