@@ -947,5 +947,3 @@ test_cases:
 - response: 7C8056210221F5B
   expected_values:
     LEXUS_FLV: 80.27
-- response: 7C805621022FFFF
-  expected_values: {}

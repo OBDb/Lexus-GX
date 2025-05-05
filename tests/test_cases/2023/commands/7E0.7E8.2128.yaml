@@ -4,130 +4,130 @@ extended_addressing_enabled: false
 test_cases:
 - response: 7E805612800D375
   expected_values:
-    LEXUS_ODO: 54133
+    LEXUS_ODO_V2: 54133
 - response: 7E805612800D376
   expected_values:
-    LEXUS_ODO: 54134
+    LEXUS_ODO_V2: 54134
 - response: 7E805612800D378
   expected_values:
-    LEXUS_ODO: 54136
+    LEXUS_ODO_V2: 54136
 - response: 7E805612800D37A
   expected_values:
-    LEXUS_ODO: 54138
+    LEXUS_ODO_V2: 54138
 - response: 7E805612800D37B
   expected_values:
-    LEXUS_ODO: 54139
+    LEXUS_ODO_V2: 54139
 - response: 7E805612800D37D
   expected_values:
-    LEXUS_ODO: 54141
+    LEXUS_ODO_V2: 54141
 - response: 7E805612800D37F
   expected_values:
-    LEXUS_ODO: 54143
+    LEXUS_ODO_V2: 54143
 - response: 7E805612800D380
   expected_values:
-    LEXUS_ODO: 54144
+    LEXUS_ODO_V2: 54144
 - response: 7E805612800D382
   expected_values:
-    LEXUS_ODO: 54146
+    LEXUS_ODO_V2: 54146
 - response: 7E805612800D383
   expected_values:
-    LEXUS_ODO: 54147
+    LEXUS_ODO_V2: 54147
 - response: 7E805612800D385
   expected_values:
-    LEXUS_ODO: 54149
+    LEXUS_ODO_V2: 54149
 - response: 7E805612800D387
   expected_values:
-    LEXUS_ODO: 54151
+    LEXUS_ODO_V2: 54151
 - response: 7E805612800D388
   expected_values:
-    LEXUS_ODO: 54152
+    LEXUS_ODO_V2: 54152
 - response: 7E805612800D38A
   expected_values:
-    LEXUS_ODO: 54154
+    LEXUS_ODO_V2: 54154
 - response: 7E805612800D38B
   expected_values:
-    LEXUS_ODO: 54155
+    LEXUS_ODO_V2: 54155
 - response: 7E805612800D38D
   expected_values:
-    LEXUS_ODO: 54157
+    LEXUS_ODO_V2: 54157
 - response: 7E805612800D38F
   expected_values:
-    LEXUS_ODO: 54159
+    LEXUS_ODO_V2: 54159
 - response: 7E805612800D390
   expected_values:
-    LEXUS_ODO: 54160
+    LEXUS_ODO_V2: 54160
 - response: 7E805612800D392
   expected_values:
-    LEXUS_ODO: 54162
+    LEXUS_ODO_V2: 54162
 - response: 7E805612800D393
   expected_values:
-    LEXUS_ODO: 54163
+    LEXUS_ODO_V2: 54163
 - response: 7E805612800D395
   expected_values:
-    LEXUS_ODO: 54165
+    LEXUS_ODO_V2: 54165
 - response: 7E805612800D397
   expected_values:
-    LEXUS_ODO: 54167
+    LEXUS_ODO_V2: 54167
 - response: 7E805612800D398
   expected_values:
-    LEXUS_ODO: 54168
+    LEXUS_ODO_V2: 54168
 - response: 7E805612800D39A
   expected_values:
-    LEXUS_ODO: 54170
+    LEXUS_ODO_V2: 54170
 - response: 7E805612800D39B
   expected_values:
-    LEXUS_ODO: 54171
+    LEXUS_ODO_V2: 54171
 - response: 7E805612800D39D
   expected_values:
-    LEXUS_ODO: 54173
+    LEXUS_ODO_V2: 54173
 - response: 7E805612800D39F
   expected_values:
-    LEXUS_ODO: 54175
+    LEXUS_ODO_V2: 54175
 - response: 7E805612800D3A0
   expected_values:
-    LEXUS_ODO: 54176
+    LEXUS_ODO_V2: 54176
 - response: 7E805612800D3A2
   expected_values:
-    LEXUS_ODO: 54178
+    LEXUS_ODO_V2: 54178
 - response: 7E805612800D3A4
   expected_values:
-    LEXUS_ODO: 54180
+    LEXUS_ODO_V2: 54180
 - response: 7E805612800D3A5
   expected_values:
-    LEXUS_ODO: 54181
+    LEXUS_ODO_V2: 54181
 - response: 7E805612800D3A7
   expected_values:
-    LEXUS_ODO: 54183
+    LEXUS_ODO_V2: 54183
 - response: 7E805612800D3A8
   expected_values:
-    LEXUS_ODO: 54184
+    LEXUS_ODO_V2: 54184
 - response: 7E805612800D3AA
   expected_values:
-    LEXUS_ODO: 54186
+    LEXUS_ODO_V2: 54186
 - response: 7E805612800D3AC
   expected_values:
-    LEXUS_ODO: 54188
+    LEXUS_ODO_V2: 54188
 - response: 7E805612800D3AD
   expected_values:
-    LEXUS_ODO: 54189
+    LEXUS_ODO_V2: 54189
 - response: 7E805612800D3AF
   expected_values:
-    LEXUS_ODO: 54191
+    LEXUS_ODO_V2: 54191
 - response: 7E805612800D3FA
   expected_values:
-    LEXUS_ODO: 54266
+    LEXUS_ODO_V2: 54266
 - response: 7E805612800D3FC
   expected_values:
-    LEXUS_ODO: 54268
+    LEXUS_ODO_V2: 54268
 - response: 7E805612800D3FE
   expected_values:
-    LEXUS_ODO: 54270
+    LEXUS_ODO_V2: 54270
 - response: 7E805612800D3FF
   expected_values:
-    LEXUS_ODO: 54271
+    LEXUS_ODO_V2: 54271
 - response: 7E805612800D401
   expected_values:
-    LEXUS_ODO: 54273
+    LEXUS_ODO_V2: 54273
 - response: 7E805612800D402
   expected_values:
-    LEXUS_ODO: 54274
+    LEXUS_ODO_V2: 54274
