@@ -5,6 +5,12 @@ test_cases:
 - response: 709056216273A00
   expected_values:
     LEXUS_TF1_PAN: 64.4
+- response: 709056216273B00
+  expected_values:
+    LEXUS_TF1_PAN: 66.2
+- response: 709056216273C00
+  expected_values:
+    LEXUS_TF1_PAN: 68
 - response: 709056216273D00
   expected_values:
     LEXUS_TF1_PAN: 69.8
@@ -200,6 +206,9 @@ test_cases:
 - response: 709056216277D00
   expected_values:
     LEXUS_TF1_PAN: 185
+- response: '709056216277E00'
+  expected_values:
+    LEXUS_TF1_PAN: 186.8
 - response: 709056216277F00
   expected_values:
     LEXUS_TF1_PAN: 188.6
