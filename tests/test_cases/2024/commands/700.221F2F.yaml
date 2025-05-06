@@ -314,30 +314,153 @@ test_cases:
 - response: 70804621F2FA3
   expected_values:
     LEXUS_FLI: 63.92157
+- response: 70804621F2FA6
+  expected_values:
+    LEXUS_FLI: 65.09804
 - response: 70804621F2FA7
   expected_values:
     LEXUS_FLI: 65.4902
+- response: 70804621F2FAA
+  expected_values:
+    LEXUS_FLI: 66.66667
+- response: 70804621F2FAB
+  expected_values:
+    LEXUS_FLI: 67.05882
+- response: 70804621F2FAC
+  expected_values:
+    LEXUS_FLI: 67.45098
+- response: 70804621F2FAD
+  expected_values:
+    LEXUS_FLI: 67.84314
+- response: 70804621F2FAE
+  expected_values:
+    LEXUS_FLI: 68.23529
+- response: 70804621F2FAF
+  expected_values:
+    LEXUS_FLI: 68.62745
+- response: 70804621F2FB0
+  expected_values:
+    LEXUS_FLI: 69.01961
+- response: 70804621F2FB1
+  expected_values:
+    LEXUS_FLI: 69.41176
+- response: 70804621F2FB2
+  expected_values:
+    LEXUS_FLI: 69.80392
+- response: 70804621F2FB3
+  expected_values:
+    LEXUS_FLI: 70.19608
+- response: 70804621F2FB4
+  expected_values:
+    LEXUS_FLI: 70.58824
+- response: 70804621F2FB5
+  expected_values:
+    LEXUS_FLI: 70.98039
+- response: 70804621F2FB6
+  expected_values:
+    LEXUS_FLI: 71.37255
+- response: 70804621F2FB7
+  expected_values:
+    LEXUS_FLI: 71.76471
+- response: 70804621F2FB8
+  expected_values:
+    LEXUS_FLI: 72.15686
+- response: 70804621F2FB9
+  expected_values:
+    LEXUS_FLI: 72.54902
+- response: 70804621F2FBA
+  expected_values:
+    LEXUS_FLI: 72.94118
+- response: 70804621F2FBB
+  expected_values:
+    LEXUS_FLI: 73.33333
+- response: 70804621F2FBC
+  expected_values:
+    LEXUS_FLI: 73.72549
+- response: 70804621F2FBD
+  expected_values:
+    LEXUS_FLI: 74.11765
+- response: 70804621F2FBE
+  expected_values:
+    LEXUS_FLI: 74.5098
+- response: 70804621F2FBF
+  expected_values:
+    LEXUS_FLI: 74.90196
+- response: 70804621F2FC0
+  expected_values:
+    LEXUS_FLI: 75.29412
+- response: 70804621F2FC1
+  expected_values:
+    LEXUS_FLI: 75.68627
+- response: 70804621F2FC2
+  expected_values:
+    LEXUS_FLI: 76.07843
+- response: 70804621F2FC3
+  expected_values:
+    LEXUS_FLI: 76.47059
+- response: 70804621F2FC4
+  expected_values:
+    LEXUS_FLI: 76.86275
+- response: 70804621F2FC5
+  expected_values:
+    LEXUS_FLI: 77.2549
+- response: 70804621F2FC6
+  expected_values:
+    LEXUS_FLI: 77.64706
 - response: 70804621F2FC7
   expected_values:
     LEXUS_FLI: 78.03922
+- response: 70804621F2FC8
+  expected_values:
+    LEXUS_FLI: 78.43137
+- response: 70804621F2FC9
+  expected_values:
+    LEXUS_FLI: 78.82353
 - response: 70804621F2FCA
   expected_values:
     LEXUS_FLI: 79.21569
+- response: 70804621F2FCB
+  expected_values:
+    LEXUS_FLI: 79.60784
+- response: 70804621F2FCC
+  expected_values:
+    LEXUS_FLI: 80
+- response: 70804621F2FCD
+  expected_values:
+    LEXUS_FLI: 80.39216
+- response: 70804621F2FCE
+  expected_values:
+    LEXUS_FLI: 80.78431
 - response: 70804621F2FCF
   expected_values:
     LEXUS_FLI: 81.17647
+- response: 70804621F2FD0
+  expected_values:
+    LEXUS_FLI: 81.56863
+- response: 70804621F2FD1
+  expected_values:
+    LEXUS_FLI: 81.96078
 - response: 70804621F2FD2
   expected_values:
     LEXUS_FLI: 82.35294
+- response: 70804621F2FD3
+  expected_values:
+    LEXUS_FLI: 82.7451
 - response: 70804621F2FD4
   expected_values:
     LEXUS_FLI: 83.13725
+- response: 70804621F2FD5
+  expected_values:
+    LEXUS_FLI: 83.52941
 - response: 70804621F2FD6
   expected_values:
     LEXUS_FLI: 83.92157
 - response: 70804621F2FD8
   expected_values:
     LEXUS_FLI: 84.70588
+- response: 70804621F2FD9
+  expected_values:
+    LEXUS_FLI: 85.09804
 - response: 70804621F2FDA
   expected_values:
     LEXUS_FLI: 85.4902

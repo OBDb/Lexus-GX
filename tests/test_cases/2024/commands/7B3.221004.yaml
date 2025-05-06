@@ -92,6 +92,9 @@ test_cases:
 - response: 7BB06621004000200
   expected_values:
     LEXUS_STEERING_ANGLE: 3
+- response: 7BB06621004000201
+  expected_values:
+    LEXUS_STEERING_ANGLE: 3
 - response: 7BB06621004000202
   expected_values:
     LEXUS_STEERING_ANGLE: 3
@@ -110,6 +113,9 @@ test_cases:
 - response: 7BB06621004000207
   expected_values:
     LEXUS_STEERING_ANGLE: 3
+- response: 7BB06621004000209
+  expected_values:
+    LEXUS_STEERING_ANGLE: 3
 - response: 7BB0662100400020A
   expected_values:
     LEXUS_STEERING_ANGLE: 3
@@ -125,10 +131,16 @@ test_cases:
 - response: 7BB0662100400020E
   expected_values:
     LEXUS_STEERING_ANGLE: 3
+- response: 7BB0662100400020F
+  expected_values:
+    LEXUS_STEERING_ANGLE: 3
 - response: 7BB06621004000300
   expected_values:
     LEXUS_STEERING_ANGLE: 4.5
 - response: 7BB06621004000301
+  expected_values:
+    LEXUS_STEERING_ANGLE: 4.5
+- response: 7BB06621004000302
   expected_values:
     LEXUS_STEERING_ANGLE: 4.5
 - response: 7BB06621004000304
@@ -158,6 +170,12 @@ test_cases:
 - response: 7BB06621004000400
   expected_values:
     LEXUS_STEERING_ANGLE: 6
+- response: 7BB06621004000401
+  expected_values:
+    LEXUS_STEERING_ANGLE: 6
+- response: 7BB06621004000402
+  expected_values:
+    LEXUS_STEERING_ANGLE: 6
 - response: 7BB06621004000404
   expected_values:
     LEXUS_STEERING_ANGLE: 6
@@ -176,16 +194,28 @@ test_cases:
 - response: 7BB0662100400040B
   expected_values:
     LEXUS_STEERING_ANGLE: 6
+- response: 7BB0662100400040D
+  expected_values:
+    LEXUS_STEERING_ANGLE: 6
 - response: 7BB0662100400040E
   expected_values:
     LEXUS_STEERING_ANGLE: 6
 - response: 7BB0662100400040F
   expected_values:
     LEXUS_STEERING_ANGLE: 6
+- response: 7BB06621004000500
+  expected_values:
+    LEXUS_STEERING_ANGLE: 7.5
 - response: 7BB06621004000501
   expected_values:
     LEXUS_STEERING_ANGLE: 7.5
+- response: 7BB06621004000502
+  expected_values:
+    LEXUS_STEERING_ANGLE: 7.5
 - response: 7BB06621004000503
+  expected_values:
+    LEXUS_STEERING_ANGLE: 7.5
+- response: 7BB06621004000504
   expected_values:
     LEXUS_STEERING_ANGLE: 7.5
 - response: 7BB06621004000506
@@ -198,6 +228,9 @@ test_cases:
   expected_values:
     LEXUS_STEERING_ANGLE: 7.5
 - response: 7BB0662100400050A
+  expected_values:
+    LEXUS_STEERING_ANGLE: 7.5
+- response: 7BB0662100400050B
   expected_values:
     LEXUS_STEERING_ANGLE: 7.5
 - response: 7BB0662100400050D
@@ -224,6 +257,9 @@ test_cases:
 - response: 7BB06621004000605
   expected_values:
     LEXUS_STEERING_ANGLE: 9
+- response: 7BB06621004000607
+  expected_values:
+    LEXUS_STEERING_ANGLE: 9
 - response: 7BB0662100400060A
   expected_values:
     LEXUS_STEERING_ANGLE: 9
@@ -236,7 +272,13 @@ test_cases:
 - response: 7BB0662100400060E
   expected_values:
     LEXUS_STEERING_ANGLE: 9
+- response: 7BB06621004000706
+  expected_values:
+    LEXUS_STEERING_ANGLE: 10.5
 - response: 7BB06621004000707
+  expected_values:
+    LEXUS_STEERING_ANGLE: 10.5
+- response: 7BB06621004000709
   expected_values:
     LEXUS_STEERING_ANGLE: 10.5
 - response: 7BB0662100400070A
@@ -246,6 +288,9 @@ test_cases:
   expected_values:
     LEXUS_STEERING_ANGLE: 10.5
 - response: 7BB0662100400070C
+  expected_values:
+    LEXUS_STEERING_ANGLE: 10.5
+- response: 7BB0662100400070D
   expected_values:
     LEXUS_STEERING_ANGLE: 10.5
 - response: 7BB0662100400070E
@@ -263,6 +308,9 @@ test_cases:
 - response: 7BB0662100400080B
   expected_values:
     LEXUS_STEERING_ANGLE: 12
+- response: 7BB0662100400080D
+  expected_values:
+    LEXUS_STEERING_ANGLE: 12
 - response: 7BB0662100400080F
   expected_values:
     LEXUS_STEERING_ANGLE: 12
@@ -270,6 +318,9 @@ test_cases:
   expected_values:
     LEXUS_STEERING_ANGLE: 13.5
 - response: 7BB06621004000905
+  expected_values:
+    LEXUS_STEERING_ANGLE: 13.5
+- response: 7BB06621004000907
   expected_values:
     LEXUS_STEERING_ANGLE: 13.5
 - response: 7BB0662100400090A
@@ -299,6 +350,12 @@ test_cases:
 - response: 7BB06621004000B0E
   expected_values:
     LEXUS_STEERING_ANGLE: 16.5
+- response: 7BB06621004000C04
+  expected_values:
+    LEXUS_STEERING_ANGLE: 18
+- response: 7BB06621004000C06
+  expected_values:
+    LEXUS_STEERING_ANGLE: 18
 - response: 7BB06621004000C07
   expected_values:
     LEXUS_STEERING_ANGLE: 18
@@ -314,6 +371,9 @@ test_cases:
 - response: 7BB06621004000C0D
   expected_values:
     LEXUS_STEERING_ANGLE: 18
+- response: 7BB06621004000C0E
+  expected_values:
+    LEXUS_STEERING_ANGLE: 18
 - response: 7BB06621004000D01
   expected_values:
     LEXUS_STEERING_ANGLE: 19.5
@@ -321,6 +381,9 @@ test_cases:
   expected_values:
     LEXUS_STEERING_ANGLE: 19.5
 - response: 7BB06621004000D03
+  expected_values:
+    LEXUS_STEERING_ANGLE: 19.5
+- response: 7BB06621004000D09
   expected_values:
     LEXUS_STEERING_ANGLE: 19.5
 - response: 7BB06621004000E0A
@@ -332,12 +395,21 @@ test_cases:
 - response: 7BB06621004000F00
   expected_values:
     LEXUS_STEERING_ANGLE: 22.5
+- response: 7BB06621004000F02
+  expected_values:
+    LEXUS_STEERING_ANGLE: 22.5
 - response: 7BB06621004000F03
+  expected_values:
+    LEXUS_STEERING_ANGLE: 22.5
+- response: 7BB06621004000F05
   expected_values:
     LEXUS_STEERING_ANGLE: 22.5
 - response: 7BB06621004000F06
   expected_values:
     LEXUS_STEERING_ANGLE: 22.5
+- response: 7BB0662100400100A
+  expected_values:
+    LEXUS_STEERING_ANGLE: 24
 - response: 7BB06621004001102
   expected_values:
     LEXUS_STEERING_ANGLE: 25.5
@@ -347,7 +419,13 @@ test_cases:
 - response: 7BB06621004001206
   expected_values:
     LEXUS_STEERING_ANGLE: 27
+- response: 7BB0662100400120E
+  expected_values:
+    LEXUS_STEERING_ANGLE: 27
 - response: 7BB06621004001304
+  expected_values:
+    LEXUS_STEERING_ANGLE: 28.5
+- response: 7BB0662100400130F
   expected_values:
     LEXUS_STEERING_ANGLE: 28.5
 - response: 7BB06621004001400
@@ -365,6 +443,9 @@ test_cases:
 - response: 7BB0662100400150B
   expected_values:
     LEXUS_STEERING_ANGLE: 31.5
+- response: 7BB06621004001706
+  expected_values:
+    LEXUS_STEERING_ANGLE: 34.5
 - response: 7BB06621004001B0B
   expected_values:
     LEXUS_STEERING_ANGLE: 40.5
@@ -380,9 +461,24 @@ test_cases:
 - response: 7BB06621004002600
   expected_values:
     LEXUS_STEERING_ANGLE: 57
+- response: 7BB06621004002E07
+  expected_values:
+    LEXUS_STEERING_ANGLE: 69
 - response: 7BB06621004004306
   expected_values:
     LEXUS_STEERING_ANGLE: 100.5
+- response: 7BB06621004004809
+  expected_values:
+    LEXUS_STEERING_ANGLE: 108
+- response: 7BB06621004005202
+  expected_values:
+    LEXUS_STEERING_ANGLE: 123
+- response: 7BB06621004005A02
+  expected_values:
+    LEXUS_STEERING_ANGLE: 135
+- response: 7BB06621004006007
+  expected_values:
+    LEXUS_STEERING_ANGLE: 144
 - response: 7BB0662100400660D
   expected_values:
     LEXUS_STEERING_ANGLE: 153
@@ -392,12 +488,21 @@ test_cases:
 - response: 7BB06621004009809
   expected_values:
     LEXUS_STEERING_ANGLE: 228
+- response: 7BB0662100400D10F
+  expected_values:
+    LEXUS_STEERING_ANGLE: 313.5
+- response: 7BB0662100400DE09
+  expected_values:
+    LEXUS_STEERING_ANGLE: 333
 - response: 7BB0662100400E602
   expected_values:
     LEXUS_STEERING_ANGLE: 345
 - response: 7BB0662100401000D
   expected_values:
     LEXUS_STEERING_ANGLE: 384
+- response: 7BB06621004012B04
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB0662100401390B
   expected_values:
     LEXUS_STEERING_ANGLE: 410
@@ -407,7 +512,13 @@ test_cases:
 - response: 7BB066210040ED206
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040F1404
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040F5705
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040F5E00
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040F6001
@@ -419,7 +530,16 @@ test_cases:
 - response: 7BB066210040F6C0E
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040F8201
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040F8809
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040F8A00
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040F8C00
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040F8E09
@@ -428,10 +548,19 @@ test_cases:
 - response: 7BB066210040FA10D
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FA509
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FA60D
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FB609
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FBA01
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FBA05
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FBB01
@@ -446,6 +575,15 @@ test_cases:
 - response: 7BB066210040FD802
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FDD0F
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FE00D
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FE205
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FE207
   expected_values:
     LEXUS_STEERING_ANGLE: 410
@@ -458,7 +596,13 @@ test_cases:
 - response: 7BB066210040FE809
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FE909
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FE90A
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FE90E
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FEB06
@@ -468,6 +612,12 @@ test_cases:
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FEE05
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF00A
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF00B
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FF102
@@ -482,6 +632,9 @@ test_cases:
 - response: 7BB066210040FF207
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF20F
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FF303
   expected_values:
     LEXUS_STEERING_ANGLE: 410
@@ -494,6 +647,9 @@ test_cases:
 - response: 7BB066210040FF30E
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF406
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FF40E
   expected_values:
     LEXUS_STEERING_ANGLE: 410
@@ -503,10 +659,25 @@ test_cases:
 - response: 7BB066210040FF506
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF50A
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF50B
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF603
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF607
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FF700
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FF702
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF703
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FF706
@@ -515,16 +686,28 @@ test_cases:
 - response: 7BB066210040FF70A
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF70F
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FF801
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF802
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FF806
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF807
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FF80C
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FF80F
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF903
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FF906
@@ -536,10 +719,22 @@ test_cases:
 - response: 7BB066210040FF90D
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FF90F
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFA00
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFA02
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFA03
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFA07
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFA0A
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFA0C
@@ -551,7 +746,13 @@ test_cases:
 - response: 7BB066210040FFB03
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFB07
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFB0A
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFB0D
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFB0E
@@ -560,7 +761,16 @@ test_cases:
 - response: 7BB066210040FFB0F
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFC00
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFC01
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFC02
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFC05
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFC06
@@ -570,6 +780,12 @@ test_cases:
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFC09
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFC0A
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFC0B
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFC0E
@@ -584,7 +800,16 @@ test_cases:
 - response: 7BB066210040FFD02
   expected_values:
     LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFD03
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFD04
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFD05
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFD06
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFD07
@@ -600,6 +825,9 @@ test_cases:
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFD0D
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFD0E
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFD0F
@@ -624,6 +852,9 @@ test_cases:
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFE0B
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFE0C
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFE0E
@@ -666,6 +897,9 @@ test_cases:
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFF0D
+  expected_values:
+    LEXUS_STEERING_ANGLE: 410
+- response: 7BB066210040FFF0E
   expected_values:
     LEXUS_STEERING_ANGLE: 410
 - response: 7BB066210040FFF0F
