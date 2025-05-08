@@ -5,9 +5,9 @@ test_cases:
 - response: '708056210740000'
   expected_values:
     LEXUS_ENG_OIL_PRESS: 0
-- response: 7080562107408FE
+- response: 7080562107406FE
   expected_values:
-    LEXUS_ENG_OIL_PRESS: 179.84375
-- response: 708056210741C0D
+    LEXUS_ENG_OIL_PRESS: 139.84375
+- response: 708056210741DA3
   expected_values:
-    LEXUS_ENG_OIL_PRESS: 561.01562
+    LEXUS_ENG_OIL_PRESS: 592.73438
