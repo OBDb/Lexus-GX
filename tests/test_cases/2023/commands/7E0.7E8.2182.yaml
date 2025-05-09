@@ -2,14 +2,14 @@ command_id: 7E0.7E8.2182
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7E8066182424046A0
+  expected_values:
+    LEXUS_ATF_PAN_T: 26.25
+    LEXUS_ATF_TQC_T: 30.625
 - response: 7E80661825A005B40
   expected_values:
     LEXUS_ATF_PAN_T: 50
     LEXUS_ATF_TQC_T: 51.25
-- response: 7E80661825AA05AA0
-  expected_values:
-    LEXUS_ATF_PAN_T: 50.625
-    LEXUS_ATF_TQC_T: 50.625
 - response: 7E80661825BE05BE0
   expected_values:
     LEXUS_ATF_PAN_T: 51.875

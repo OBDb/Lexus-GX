@@ -2,9 +2,9 @@ command_id: 701.709.221627
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 709056216273A00
+- response: '709056216273900'
   expected_values:
-    LEXUS_TF1_PAN: 64.4
+    LEXUS_TF1_PAN: 62.6
 - response: 709056216278C00
   expected_values:
     LEXUS_TF1_PAN: 212
