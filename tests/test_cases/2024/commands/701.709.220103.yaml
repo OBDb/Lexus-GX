@@ -2,15 +2,15 @@ command_id: 701.709.220103
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: '7090762010300000000'
+  expected_values:
+    LEXUS_ODO: 0
 - response: '70907620103020025E9'
   expected_values:
     LEXUS_ODO: 9705
 - response: 70907620103020025FF
   expected_values:
     LEXUS_ODO: 9727
-- response: '7090762010302002600'
+- response: '7090762010302002814'
   expected_values:
-    LEXUS_ODO: 9728
-- response: 709076201030200270A
-  expected_values:
-    LEXUS_ODO: 9994
+    LEXUS_ODO: 10260
