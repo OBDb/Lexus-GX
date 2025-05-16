@@ -5,6 +5,6 @@ test_cases:
 - response: 7B803612100
   expected_values:
     LEXUS_VSS: 0
-- response: 7B803612162
+- response: 7B80361216B
   expected_values:
-    LEXUS_VSS: 125.44
+    LEXUS_VSS: 136.96
