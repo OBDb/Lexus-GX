@@ -4,7 +4,7 @@ extended_addressing_enabled: false
 test_cases:
 - response: '709056216273900'
   expected_values:
-    LEXUS_TF1_PAN: 62.6
+    LEXUS_TF1_PAN_V2: 62.6
 - response: 709056216278C00
   expected_values:
-    LEXUS_TF1_PAN: 212
+    LEXUS_TF1_PAN_V2: 212

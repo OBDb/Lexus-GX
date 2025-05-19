@@ -4,23 +4,23 @@ extended_addressing_enabled: false
 test_cases:
 - response: 7E805612800D375
   expected_values:
-    LEXUS_ODO_V2: 54133
+    LEXUS_ODO_V4: 54133
 - response: 7E805612800D3FF
   expected_values:
-    LEXUS_ODO_V2: 54271
+    LEXUS_ODO_V4: 54271
 - response: 7E805612800D401
   expected_values:
-    LEXUS_ODO_V2: 54273
+    LEXUS_ODO_V4: 54273
 - response: |-
     7E805612800D4F1
     7E8064100BFBFE893
   expected_values:
-    LEXUS_ODO_V2: 54513
+    LEXUS_ODO_V4: 54513
 - response: 7E805612800D601
   expected_values:
-    LEXUS_ODO_V2: 54785
+    LEXUS_ODO_V4: 54785
 - response: |-
     7E805612800D683
     7E8064100BFBFE893
   expected_values:
-    LEXUS_ODO_V2: 54915
+    LEXUS_ODO_V4: 54915
