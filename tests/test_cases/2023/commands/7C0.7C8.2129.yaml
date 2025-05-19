@@ -4,7 +4,7 @@ extended_addressing_enabled: false
 test_cases:
 - response: 7C803612900
   expected_values:
-    LEXUS_FLI_VOL: 0
+    LEXUS_FLI_VOL_V2: 0
 - response: 7C8036129A5
   expected_values:
-    LEXUS_FLI_VOL: 82.5
+    LEXUS_FLI_VOL_V2: 82.5
