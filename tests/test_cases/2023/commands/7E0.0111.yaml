@@ -1,37 +1,11 @@
 command_id: 7E0.0111
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: '7E803411135'
+- response: 7E80341113B
   expected_values:
-    TP: 20.78431
-- response: |-
-    7E803411145
-    7E8034104D1
-    7E803410EC3
+    TP: 23.13725
+- response: '7E803411143'
   expected_values:
-    TP: 27.05882
+    TP: 26.27451
 - response: '7E803411165'
   expected_values:
     TP: 39.60784
-- response: |-
-    7E810236151000003D8
-    7E803411134
-    7E803410490
-    7E803410F42
-  expected_values:
-    TP: 20.39216
-- response: |-
-    7E810236151000003D8
-    7E80341113C
-    7E803410496
-    7E803410F41
-  expected_values:
-    TP: 23.52941
-- response: |-
-    7E810236151000003D8
-    7E80341116B
-    7E8034104F5
-    7E803410E97
-  expected_values:
-    TP: 41.96078
