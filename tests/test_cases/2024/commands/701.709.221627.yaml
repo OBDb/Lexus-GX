@@ -1,0 +1,8 @@
+command_id: 701.709.221627
+test_cases:
+- response: '709056216273500'
+  expected_values:
+    LEXUS_TF1_PAN_V2: 55.4
+- response: '709056216278700'
+  expected_values:
+    LEXUS_TF1_PAN_V2: 203
