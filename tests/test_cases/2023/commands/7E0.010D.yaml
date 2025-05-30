@@ -1,4 +1,4 @@
-command_id: 7E0.0111
+command_id: 7E0.010D
 test_cases:
 - response: |-
     7D8056162010000
@@ -13,182 +13,7 @@ test_cases:
     7DF020105
     7E80341057E
   expected_values:
-    TP: 14.5098
-- response: |-
-    7DF02010C
-    7E804410C0940
-    7DF020111
-    7E80341112A
-    7DF020104
-    7E80341045A
-    7DF02010E
-    7E803410E91
-  expected_values:
-    TP: 16.47059
-- response: |-
-    7DF02010C
-    7E804410C13F2
-    7DF020111
-    7E803411141
-    7DF020104
-    7E8034104D3
-  expected_values:
-    TP: 25.4902
-- response: |-
-    7DF02010C
-    7E804410C1456
-    7DF020111
-    7E803411132
-    7DF020104
-    7E803410482
-    7DF02010F
-    7E803410F3A
-  expected_values:
-    TP: 19.60784
-- response: |-
-    7DF02010C
-    7E804410C14FB
-    7DF020111
-    7E803411140
-    7DF020104
-    7E8034104D8
-    7DF02010E
-    7E803410EB0
-  expected_values:
-    TP: 25.09804
-- response: |-
-    7DF02010C
-    7E804410C155C
-    7DF020111
-    7E803411134
-    7DF020104
-    7E80341047E
-    7DF02010E
-    7E803410EAF
-  expected_values:
-    TP: 20.39216
-- response: |-
-    7DF02010C
-    7E804410C1669
-    7DF020111
-    7E803411135
-    7DF020104
-    7E80341047F
-    7DF02010E
-    7E803410EC0
-  expected_values:
-    TP: 20.78431
-- response: |-
-    7DF02010C
-    7E804410C1B77
-    7DF020111
-    7E80341114F
-    7DF020104
-    7E8034104E4
-    7DF02010E
-    7E803410EA8
-  expected_values:
-    TP: 30.98039
-- response: |-
-    7DF02010C
-    7E804410C1CB6
-    7DF020111
-    7E803411145
-    7DF020104
-    7E8034104D6
-    7DF02010F
-    7E803410F42
-  expected_values:
-    TP: 27.05882
-- response: |-
-    7DF02010C
-    7E804410C1D6B
-    7DF020111
-    7E803411155
-    7DF020104
-    7E8034104ED
-  expected_values:
-    TP: 33.33333
-- response: |-
-    7DF02010C
-    7E804410C1D97
-    7DF020111
-    7E803411169
-    7DF020104
-    7E8034104F4
-  expected_values:
-    TP: 41.17647
-- response: |-
-    7DF02010C
-    7E804410C1DC5
-    7DF020111
-    7E80341113C
-    7DF020104
-    7E8034104AA
-  expected_values:
-    TP: 23.52941
-- response: |-
-    7DF02010C
-    7E804410C1E17
-    7DF020111
-    7E803411139
-    7DF020104
-    7E803410490
-    7DF020105
-    7E803410581
-  expected_values:
-    TP: 22.35294
-- response: |-
-    7DF02010C
-    7E804410C1FA0
-    7DF020111
-    7E80341114A
-    7DF020104
-    7E8034104D9
-    7DF02010E
-    7E803410EBD
-  expected_values:
-    TP: 29.01961
-- response: |-
-    7DF02010C
-    7E804410C2137
-    7DF020111
-    7E803411163
-    7DF020104
-    7E8034104E8
-    7DF02010E
-    7E803410EA8
-  expected_values:
-    TP: 38.82353
-- response: |-
-    7DF02010C
-    7E804410C216F
-    7DF020111
-    7E803411145
-    7DF020104
-    7E8034104C2
-  expected_values:
-    TP: 27.05882
-- response: |-
-    7DF02010C
-    7E804410C2191
-    7DF020111
-    7E80341113F
-    7DF020104
-    7E8034104A8
-  expected_values:
-    TP: 24.70588
-- response: |-
-    7DF02010C
-    7E804410C272F
-    7DF020111
-    7E803411152
-    7DF020104
-    7E8034104D7
-    7DF02010E
-    7E803410EA8
-  expected_values:
-    TP: 32.15686
+    VSS: 0
 - response: |-
     7DF02010D
     7E803410D00
@@ -201,7 +26,7 @@ test_cases:
     7DF02010E
     7E803410E93
   expected_values:
-    TP: 14.5098
+    VSS: 0
 - response: |-
     7DF02010D
     7E803410D00
@@ -214,7 +39,7 @@ test_cases:
     7DF02010E
     7E803410E8A
   expected_values:
-    TP: 16.07843
+    VSS: 0
 - response: |-
     7DF02010D
     7E803410D00
@@ -227,7 +52,7 @@ test_cases:
     7DF02010E
     7E803410EA1
   expected_values:
-    TP: 18.43137
+    VSS: 0
 - response: |-
     7DF02010D
     7E803410D07
@@ -238,7 +63,18 @@ test_cases:
     7DF020104
     7E80341045C
   expected_values:
-    TP: 15.29412
+    VSS: 7
+- response: |-
+    7DF02010D
+    7E803410D12
+    7DF02010C
+    7E804410C0A5A
+    7DF020111
+    7E803411125
+    7DF020104
+    7E803410456
+  expected_values:
+    VSS: 18
 - response: |-
     7DF02010D
     7E803410D14
@@ -251,7 +87,7 @@ test_cases:
     7DF020105
     7E80341057E
   expected_values:
-    TP: 18.03922
+    VSS: 20
 - response: |-
     7DF02010D
     7E803410D19
@@ -264,7 +100,7 @@ test_cases:
     7DF02010F
     7E803410F42
   expected_values:
-    TP: 16.07843
+    VSS: 25
 - response: |-
     7DF02010D
     7E803410D19
@@ -277,7 +113,7 @@ test_cases:
     7DF02010E
     7E803410EB7
   expected_values:
-    TP: 19.60784
+    VSS: 25
 - response: |-
     7DF02010D
     7E803410D36
@@ -290,7 +126,7 @@ test_cases:
     7DF02010E
     7E803410E9E
   expected_values:
-    TP: 14.90196
+    VSS: 54
 - response: |-
     7DF02010D
     7E803410D36
@@ -303,7 +139,7 @@ test_cases:
     7DF02010E
     7E803410ECA
   expected_values:
-    TP: 25.09804
+    VSS: 54
 - response: |-
     7DF02010D
     7E803410D38
@@ -316,7 +152,12 @@ test_cases:
     7DF02010E
     7E803410EBF
   expected_values:
-    TP: 18.82353
+    VSS: 56
+- response: |-
+    7DF02010D
+    7E803410D3A
+  expected_values:
+    VSS: 58
 - response: |-
     7DF02010D
     7E803410D3B
@@ -327,7 +168,23 @@ test_cases:
     7DF020104
     7E803410438
   expected_values:
-    TP: 14.90196
+    VSS: 59
+- response: |-
+    7DF02010D
+    7E803410D3F
+    7DF02010C
+    7E804410C1343
+    7DF020111
+    7E803411126
+    7DF020104
+    7E803410441
+  expected_values:
+    VSS: 63
+- response: |-
+    7DF02010D
+    7E803410D41
+  expected_values:
+    VSS: 65
 - response: |-
     7DF02010D
     7E803410D5F
@@ -340,7 +197,7 @@ test_cases:
     7DF02010E
     7E803410EB9
   expected_values:
-    TP: 16.07843
+    VSS: 95
 - response: |-
     7DF02010D
     7E803410D60
@@ -353,7 +210,18 @@ test_cases:
     7DF02010E
     7E803410ECF
   expected_values:
-    TP: 17.64706
+    VSS: 96
+- response: |-
+    7DF02010D
+    7E803410D64
+    7DF02010C
+    7E804410C193E
+    7DF020111
+    7E803411156
+    7DF020104
+    7E8034104EE
+  expected_values:
+    VSS: 100
 - response: |-
     7DF02010D
     7E803410D69
@@ -366,7 +234,18 @@ test_cases:
     7DF02010E
     7E803410ED0
   expected_values:
-    TP: 21.96078
+    VSS: 105
+- response: |-
+    7DF02010D
+    7E803410D6C
+    7DF02010C
+    7E804410C1B71
+    7DF020111
+    7E80341114A
+    7DF020104
+    7E8034104E0
+  expected_values:
+    VSS: 108
 - response: |-
     7DF02010D
     7E803410D70
@@ -377,7 +256,18 @@ test_cases:
     7DF020104
     7E8034104A8
   expected_values:
-    TP: 23.13725
+    VSS: 112
+- response: |-
+    7DF02010D
+    7E803410D71
+    7DF02010C
+    7E804410C1C5B
+    7DF020111
+    7E803411149
+    7DF020104
+    7E8034104DF
+  expected_values:
+    VSS: 113
 - response: |-
     7DF02010D
     7E803410D75
@@ -390,7 +280,7 @@ test_cases:
     7DF02010F
     7E803410F38
   expected_values:
-    TP: 20
+    VSS: 117
 - response: |-
     7DF02010D
     7E803410D76
@@ -403,7 +293,18 @@ test_cases:
     7DF02010E
     7E803410E94
   expected_values:
-    TP: 40.39216
+    VSS: 118
+- response: |-
+    7DF02010D
+    7E803410D76
+    7DF02010C
+    7E804410C1DEB
+    7DF020111
+    7E803411141
+    7DF020104
+    7E8034104C1
+  expected_values:
+    VSS: 118
 - response: |-
     7DF02010D
     7E803410D7B
@@ -414,7 +315,7 @@ test_cases:
     7DF020104
     7E80341049B
   expected_values:
-    TP: 23.13725
+    VSS: 123
 - response: |-
     7DF02010D
     7E803410D7E
@@ -427,7 +328,7 @@ test_cases:
     7DF02010E
     7E803410E9D
   expected_values:
-    TP: 66.66667
+    VSS: 126
 - response: |-
     7DF02010D
     7E803410D80
@@ -440,7 +341,7 @@ test_cases:
     7DF02010E
     7E803410EC5
   expected_values:
-    TP: 22.7451
+    VSS: 128
 - response: |-
     7DF02010D
     7E803410D80
@@ -451,137 +352,15 @@ test_cases:
     7DF020104
     7E8034104D9
   expected_values:
-    TP: 29.80392
+    VSS: 128
 - response: |-
-    7DF020111
-    7E803411126
-    7DF020104
-    7E803410455
-    7DF02010F
-    7E803410F3A
+    7DF02010D
+    7E803410D84
   expected_values:
-    TP: 14.90196
-- response: |-
-    7DF020111
-    7E803411126
-    7DF020104
-    7E803410463
+    VSS: 132
+- response: 7E803410D06
   expected_values:
-    TP: 14.90196
-- response: |-
-    7DF020111
-    7E803411128
-    7DF020104
-    7E803410446
-    7DF02010E
-    7E803410EB2
-  expected_values:
-    TP: 15.68627
-- response: |-
-    7DF020111
-    7E803411129
-    7DF020104
-    7E80341044C
-  expected_values:
-    TP: 16.07843
-- response: |-
-    7DF020111
-    7E803411132
-    7DF020104
-    7E80341045C
-  expected_values:
-    TP: 19.60784
-- response: |-
-    7DF020111
-    7E80341113D
-    7DF020104
-    7E803410494
-  expected_values:
-    TP: 23.92157
-- response: |-
-    7DF020111
-    7E80341113D
-    7DF020104
-    7E8034104BD
-  expected_values:
-    TP: 23.92157
-- response: |-
-    7DF020111
-    7E80341113F
-    7DF020104
-    7E8034104AF
-    7DF02010F
-    7E803410F39
-  expected_values:
-    TP: 24.70588
-- response: |-
-    7DF020111
-    7E803411143
-    7DF020104
-    7E8034104BB
-  expected_values:
-    TP: 26.27451
-- response: |-
-    7DF020111
-    7E803411144
-    7DF020104
-    7E8034104CF
-    7DF02010E
-    7E803410EBF
-  expected_values:
-    TP: 26.66667
-- response: |-
-    7DF020111
-    7E803411145
-    7DF020104
-    7E8034104C4
-  expected_values:
-    TP: 27.05882
-- response: |-
-    7DF020111
-    7E803411145
-    7DF020104
-    7E8034104D2
-    7DF020105
-    7E803410582
-  expected_values:
-    TP: 27.05882
-- response: |-
-    7DF020111
-    7E803411145
-    7DF020104
-    7E8034104D3
-    7DF02010E
-    7E803410EC0
-  expected_values:
-    TP: 27.05882
-- response: |-
-    7DF020111
-    7E803411149
-    7DF020104
-    7E8034104D0
-    7DF02010E
-    7E803410EBD
-  expected_values:
-    TP: 28.62745
-- response: |-
-    7DF020111
-    7E803411150
-    7DF020104
-    7E8034104DC
-    7DF02010E
-    7E803410EB3
-  expected_values:
-    TP: 31.37255
-- response: |-
-    7DF020111
-    7E80341115B
-    7DF020104
-    7E8034104E3
-    7DF02010E
-    7E803410EA6
-  expected_values:
-    TP: 35.68627
+    VSS: 6
 - response: |-
     7E803410D50
     7DF02010C
@@ -593,7 +372,7 @@ test_cases:
     7DF02010E
     7E803410EC5
   expected_values:
-    TP: 21.96078
+    VSS: 80
 - response: |-
     7E803410D6A
     7E804410C1CC2
@@ -601,7 +380,7 @@ test_cases:
     7E803410491
     7E80341057D
   expected_values:
-    TP: 23.13725
+    VSS: 106
 - response: |-
     7E803410D73
     7DF02010C
@@ -613,7 +392,7 @@ test_cases:
     7DF02010E
     7E803410EB5
   expected_values:
-    TP: 27.45098
+    VSS: 115
 - response: |-
     7E803410D75
     7DF02010C
@@ -625,73 +404,10 @@ test_cases:
     7DF02010E
     7E803410EBC
   expected_values:
-    TP: 27.45098
-- response: '7E803411125'
+    VSS: 117
+- response: 7E803410D84
   expected_values:
-    TP: 14.5098
-- response: |-
-    7E803411137
-    7DF020104
-    7E80341047F
-    7DF020105
-    7E803410582
-  expected_values:
-    TP: 21.56863
-- response: |-
-    7E80341113C
-    7DF020104
-    7E8034104B6
-  expected_values:
-    TP: 23.52941
-- response: |-
-    7E803411145
-    7E8034104D1
-    7E803410EC3
-  expected_values:
-    TP: 27.05882
-- response: '7E803411165'
-  expected_values:
-    TP: 39.60784
-- response: |-
-    7E804410C1AD4
-    7DF020111
-    7E80341114F
-    7DF020104
-    7E8034104E6
-    7DF02010E
-    7E803410E9F
-  expected_values:
-    TP: 30.98039
-- response: |-
-    7E804410C1E0A
-    7DF020111
-    7E803411138
-    7DF020104
-    7E803410482
-    7DF02010E
-    7E803410EC5
-  expected_values:
-    TP: 21.96078
-- response: |-
-    7E804410C2143
-    7DF020111
-    7E803411147
-    7DF020104
-    7E8034104CA
-    7DF02010E
-    7E803410EC6
-  expected_values:
-    TP: 27.84314
-- response: |-
-    7E804410C22D3
-    7DF020111
-    7E80341114E
-    7DF020104
-    7E8034104CD
-    7DF020105
-    7E803410582
-  expected_values:
-    TP: 30.58824
+    VSS: 132
 - response: |-
     7E8056185010010
     7E803410D00
@@ -700,7 +416,7 @@ test_cases:
     7E803410458
     7E803410E93
   expected_values:
-    TP: 14.5098
+    VSS: 0
 - response: |-
     7E810236151000002C7
     7E8210101FD81488282
@@ -714,7 +430,7 @@ test_cases:
     7E803410453
     7E803410E93
   expected_values:
-    TP: 14.5098
+    VSS: 0
 - response: |-
     7E810236151000002C7
     7E8210102037E498383
@@ -728,7 +444,7 @@ test_cases:
     7E80341047C
     7E803410EC7
   expected_values:
-    TP: 20
+    VSS: 20
 - response: |-
     7E810236151000002C7
     7E82101022F7F4C8282
@@ -738,17 +454,7 @@ test_cases:
     7E80341044D
     7E803410F4C
   expected_values:
-    TP: 14.90196
-- response: |-
-    7E810236151000002C7
-    7E82101022F7F4C8282
-    7E8223F3F00000C0D01
-    7E82387001D80178C98
-    7E82480008000800000
-    7E82500000000000000
-    7E803411126
-  expected_values:
-    TP: 14.90196
+    VSS: 6
 - response: |-
     7E810236151000002F1
     7E8210102AF7B396464
@@ -762,17 +468,7 @@ test_cases:
     7E8034104D6
     7E803410EA8
   expected_values:
-    TP: 35.68627
-- response: |-
-    7E810236151000002F1
-    7E8210103167C3A6767
-    7E822373700000CF601
-    7E823A2001980008CE5
-    7E82480008000800000
-    7E82500000000000000
-    7E803411126
-  expected_values:
-    TP: 14.90196
+    VSS: 63
 - response: |-
     7E81023615100000347
     7E8210104C17E3F7E7E
@@ -786,7 +482,17 @@ test_cases:
     7E80341045C
     7E803410E9C
   expected_values:
-    TP: 14.90196
+    VSS: 20
+- response: |-
+    7E81023615100000379
+    7E8210101AD7C356060
+    7E822323206A41A1202
+    7E823F4001B7FDC8C4B
+    7E82480008000800000
+    7E82500000000000000
+    7E803410D7B
+  expected_values:
+    VSS: 123
 - response: |-
     7E81023615100000379
     7E821010D5281347F7F
@@ -800,7 +506,7 @@ test_cases:
     7E8034104B1
     7E803410ED4
   expected_values:
-    TP: 24.70588
+    VSS: 124
 - response: |-
     7E81023615100000379
     7E821010E9A82358181
@@ -811,7 +517,7 @@ test_cases:
     7E8034104D3
     7E803410EB9
   expected_values:
-    TP: 29.01961
+    VSS: 132
 - response: |-
     7E81023615100000379
     7E821010E9D82358181
@@ -825,7 +531,7 @@ test_cases:
     7E8034104D3
     7E803410EBA
   expected_values:
-    TP: 29.01961
+    VSS: 132
 - response: |-
     7E81023615100000379
     7E82101119982358383
@@ -839,7 +545,7 @@ test_cases:
     7E8034104C7
     7E803410582
   expected_values:
-    TP: 27.45098
+    VSS: 132
 - response: |-
     7E81023615100000379
     7E8210113AE81378383
@@ -853,7 +559,7 @@ test_cases:
     7E8034104A4
     7E803410ECF
   expected_values:
-    TP: 24.70588
+    VSS: 120
 - response: |-
     7E81023615100000379
     7E821011EBF81398686
@@ -867,7 +573,7 @@ test_cases:
     7E8034104AC
     7E803410ED4
   expected_values:
-    TP: 25.09804
+    VSS: 132
 - response: |-
     7E81023615100000379
     7E8210122F580388686
@@ -881,7 +587,7 @@ test_cases:
     7E80341049A
     7E803410ED7
   expected_values:
-    TP: 23.52941
+    VSS: 132
 - response: |-
     7E81023615100000379
     7E8210123D281388686
@@ -895,17 +601,7 @@ test_cases:
     7E8034104C0
     7E803410ECA
   expected_values:
-    TP: 26.66667
-- response: |-
-    7E81023615100000379
-    7E8210126D582388787
-    7E8223737068F1CF603
-    7E82330001B80008C4B
-    7E82480008310800000
-    7E82500000000000000
-    7E803411146
-  expected_values:
-    TP: 27.45098
+    VSS: 132
 - response: |-
     7E81023615100000379
     7E821012C1D80388484
@@ -919,7 +615,7 @@ test_cases:
     7E8034104E2
     7E803410580
   expected_values:
-    TP: 32.15686
+    VSS: 130
 - response: |-
     7E81023615100000379
     7E821012CE380388585
@@ -933,17 +629,7 @@ test_cases:
     7E80341046E
     7E803410F38
   expected_values:
-    TP: 22.35294
-- response: |-
-    7E81023615100000379
-    7E821012D8A7F378484
-    7E822353509FC110F02
-    7E82314001B7FDC8C4B
-    7E82480008000800000
-    7E82500000000000000
-    7E803411151
-  expected_values:
-    TP: 31.76471
+    VSS: 104
 - response: |-
     7E81023615100000379
     7E82101314481378484
@@ -957,7 +643,7 @@ test_cases:
     7E8034104B2
     7E803410ED4
   expected_values:
-    TP: 24.70588
+    VSS: 118
 - response: |-
     7E81023615100000379
     7E8210132D081388585
@@ -970,7 +656,7 @@ test_cases:
     7E8034104AC
     7E803410ED6
   expected_values:
-    TP: 24.31373
+    VSS: 123
 - response: |-
     7E81023615100000379
     7E8210132D481388585
@@ -983,27 +669,7 @@ test_cases:
     7E803411140
     7E8034104B3
   expected_values:
-    TP: 25.09804
-- response: |-
-    7E81023615100000379
-    7E82101352681388484
-    7E8223737061C178E02
-    7E823BC001B7FDC8C4B
-    7E82480008000800000
-    7E82500000000000000
-    7E803411143
-  expected_values:
-    TP: 26.27451
-- response: |-
-    7E81023615100000379
-    7E82101370B81388585
-    7E822373707A71AFD03
-    7E82308001B80008C4B
-    7E82480008310800000
-    7E82500000000000000
-    7E80341114B
-  expected_values:
-    TP: 29.41176
+    VSS: 124
 - response: |-
     7E81023615100000379
     7E82101375780398484
@@ -1017,7 +683,7 @@ test_cases:
     7E803410443
     7E803410EA5
   expected_values:
-    TP: 14.90196
+    VSS: 69
 - response: |-
     7E81023615100000379
     7E8210137EA7E3F8383
@@ -1031,7 +697,7 @@ test_cases:
     7E80341044E
     7E803410E9A
   expected_values:
-    TP: 14.5098
+    VSS: 13
 - response: |-
     7E810236151000003B1
     7E82101042F7E417A7A
@@ -1045,7 +711,7 @@ test_cases:
     7E803410445
     7E803410EC2
   expected_values:
-    TP: 15.68627
+    VSS: 62
 - response: |-
     7E810236151000003B1
     7E8210104657E427A7A
@@ -1056,17 +722,7 @@ test_cases:
     7E803410438
     7E803410EAC
   expected_values:
-    TP: 14.90196
-- response: |-
-    7E810236151000003B1
-    7E8210104827E427B7B
-    7E8223F3F01430A3401
-    7E82350001980008C98
-    7E82480008000800000
-    7E82500000000000000
-    7E80341112A
-  expected_values:
-    TP: 16.47059
+    VSS: 50
 - response: |-
     7E810236151000003B1
     7E82101049D7E427B7B
@@ -1079,28 +735,7 @@ test_cases:
     7E803411125
     7E80341044E
   expected_values:
-    TP: 14.5098
-- response: |-
-    7E810236151000003D8
-    7E803411134
-    7E803410490
-    7E803410F42
-  expected_values:
-    TP: 20.39216
-- response: |-
-    7E810236151000003D8
-    7E80341113C
-    7E803410496
-    7E803410F41
-  expected_values:
-    TP: 23.52941
-- response: |-
-    7E810236151000003D8
-    7E80341116B
-    7E8034104F5
-    7E803410E97
-  expected_values:
-    TP: 41.96078
+    VSS: 24
 - response: |-
     7E810236151000003D8
     7E8210104EF81427A7A
@@ -1113,7 +748,7 @@ test_cases:
     7E803411149
     7E8034104E2
   expected_values:
-    TP: 28.62745
+    VSS: 116
 - response: |-
     7E810236151000003D8
     7E82101092D82438080
@@ -1127,7 +762,7 @@ test_cases:
     7E8034104C9
     7E803410EBE
   expected_values:
-    TP: 25.4902
+    VSS: 107
 - response: |-
     7E810236151000003D8
     7E8210109D180438080
@@ -1137,17 +772,7 @@ test_cases:
     7E8034104C6
     7E803410ECD
   expected_values:
-    TP: 21.56863
-- response: |-
-    7E810236151000003D8
-    7E821010A1681448080
-    7E8224141015E129002
-    7E8233E004B818D8C98
-    7E82480008356800000
-    7E82500000000000000
-    7E80341112E
-  expected_values:
-    TP: 18.03922
+    VSS: 87
 - response: |-
     7E810236151000003D8
     7E821010CE882438585
@@ -1160,17 +785,7 @@ test_cases:
     7E803411146
     7E8034104C3
   expected_values:
-    TP: 27.45098
-- response: |-
-    7E810236151000003D8
-    7E821010F1B82428686
-    7E8224141060B174702
-    7E823B5004B818D8C98
-    7E8248000833A800000
-    7E82500000000000000
-    7E803411142
-  expected_values:
-    TP: 25.88235
+    VSS: 112
 - response: |-
     7E810236151000003D8
     7E821010F7082428686
@@ -1184,7 +799,7 @@ test_cases:
     7E8034104E1
     7E803410EA6
   expected_values:
-    TP: 28.62745
+    VSS: 99
 - response: |-
     7E810236151000003D8
     7E82101141483418686
@@ -1198,7 +813,7 @@ test_cases:
     7E8034104D1
     7E803410F41
   expected_values:
-    TP: 26.66667
+    VSS: 117
 - response: |-
     7E810236151000003D8
     7E82101165983428787
@@ -1212,7 +827,7 @@ test_cases:
     7E8034104CF
     7E803410EC2
   expected_values:
-    TP: 26.66667
+    VSS: 119
 - response: |-
     7E810236151000003D8
     7E821011BB282418787
@@ -1226,17 +841,7 @@ test_cases:
     7E8034104AD
     7E803410EC7
   expected_values:
-    TP: 26.27451
-- response: |-
-    7E810236151000003D8
-    7E821011D9D82418787
-    7E82241410713198502
-    7E823E9004B818D8C98
-    7E82480008327800000
-    7E82500000000000000
-    7E803411148
-  expected_values:
-    TP: 28.23529
+    VSS: 117
 - response: |-
     7E810236151000003D8
     7E821011FEF82418787
@@ -1250,7 +855,7 @@ test_cases:
     7E8034104D0
     7E803410EBF
   expected_values:
-    TP: 27.05882
+    VSS: 118
 - response: |-
     7E810236151000003D8
     7E8210121DE82418787
@@ -1261,7 +866,7 @@ test_cases:
     7E80341045E
     7E803410ED0
   expected_values:
-    TP: 19.21569
+    VSS: 117
 - response: |-
     7E810236151000003D8
     7E82101250082418686
@@ -1275,7 +880,7 @@ test_cases:
     7E8034104D6
     7E803410EBC
   expected_values:
-    TP: 27.45098
+    VSS: 118
 - response: |-
     7E810236151000003D8
     7E821012CBB7F438585
@@ -1289,7 +894,7 @@ test_cases:
     7E8034104EB
     7E803410EA0
   expected_values:
-    TP: 37.64706
+    VSS: 61
 - response: |-
     7E810236151000003D8
     7E821012E2E82428787
@@ -1301,7 +906,7 @@ test_cases:
     7E8034104AE
     7E803410ED7
   expected_values:
-    TP: 24.31373
+    VSS: 120
 - response: |-
     7E810236151000003D8
     7E821012E3182428787
@@ -1314,7 +919,7 @@ test_cases:
     7E803410461
     7E803410ED1
   expected_values:
-    TP: 18.82353
+    VSS: 120
 - response: |-
     7E810236151000003D8
     7E82101302B81428787
@@ -1328,7 +933,7 @@ test_cases:
     7E803410470
     7E803410EC9
   expected_values:
-    TP: 21.56863
+    VSS: 117
 - response: |-
     7E810236151000003D8
     7E82101369280478787
@@ -1342,7 +947,7 @@ test_cases:
     7E803410459
     7E803410580
   expected_values:
-    TP: 15.68627
+    VSS: 26
 - response: |-
     7E810236151000003E5
     7E8210101AC74385C5C
@@ -1355,7 +960,7 @@ test_cases:
     7E803411135
     7E803410493
   expected_values:
-    TP: 20.78431
+    VSS: 35
 - response: |-
     7E810236151000003E5
     7E8210102A279366565
@@ -1369,14 +974,14 @@ test_cases:
     7E8034104ED
     7E803410F36
   expected_values:
-    TP: 43.13725
+    VSS: 109
 - response: |-
-    7E81023615100000425
-    7E82101000176406262
-    7E8223A3A00000D9801
-    7E823B5000B80008D32
+    7E810236151000003E5
+    7E82101041C7D366A6A
+    7E8223333043D12A302
+    7E8233F00107FFD8CE5
     7E82480008000800000
     7E82500000000000000
-    7E803411126
+    7E803410D6C
   expected_values:
-    TP: 14.90196
+    VSS: 108

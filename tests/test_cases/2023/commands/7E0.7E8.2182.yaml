@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2182
+test_cases:
+- response: 7E8066182366038E0
+  expected_values:
+    LEXUS_ATF_PAN_T: 14.375
+    LEXUS_ATF_TQC_T: 16.875
+- response: 7E80661823AC03C00
+  expected_values:
+    LEXUS_ATF_PAN_T: 18.75
+    LEXUS_ATF_TQC_T: 20
+- response: 7E80661823DE04060
+  expected_values:
+    LEXUS_ATF_PAN_T: 21.875
+    LEXUS_ATF_TQC_T: 24.375
+- response: '7E806618241004740'
+  expected_values:
+    LEXUS_ATF_PAN_T: 25
+    LEXUS_ATF_TQC_T: 31.25
+- response: |-
+    7E80661827A807D00
+    7E8064100BFBFE893
+  expected_values:
+    LEXUS_ATF_PAN_T: 82.5
+    LEXUS_ATF_TQC_T: 85
+- response: 7E806618287A09100
+  expected_values:
+    LEXUS_ATF_PAN_T: 95.625
+    LEXUS_ATF_TQC_T: 105
+- response: 7E8066182884088E0
+  expected_values:
+    LEXUS_ATF_PAN_T: 96.25
+    LEXUS_ATF_TQC_T: 96.875
