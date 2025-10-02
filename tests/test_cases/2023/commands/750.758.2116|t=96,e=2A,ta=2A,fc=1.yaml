@@ -1,0 +1,73 @@
+command_id: 750.758.2116|t=96,e=2A,ta=2A,fc=1
+test_cases:
+- expected_values:
+    LEXUS_TT_SPARE_V2: 41
+  response: |-
+    7582A10076116000000
+    7582A21005100000000
+- expected_values:
+    LEXUS_TT_RL_V3: 35
+    LEXUS_TT_RR_V3: 35
+  response: |-
+    7582A1007611600004B
+    7582A214B0000000000
+- expected_values:
+    LEXUS_TT_FL_V2: 10
+    LEXUS_TT_RL_V3: 7
+  response: |-
+    7582A1007611632002F
+    7582A21000000000000
+- expected_values:
+    LEXUS_TT_FL_V2: 12
+    LEXUS_TT_FR_V3: 21
+    LEXUS_TT_RL_V3: 22
+    LEXUS_TT_RR_V3: 22
+    LEXUS_TT_SPARE_V2: 23
+  response: |-
+    7582A10076116343D3E
+    7582A213E3F00000000
+- expected_values:
+    LEXUS_TT_FL_V2: 24
+    LEXUS_TT_FR_V3: 36
+    LEXUS_TT_RL_V3: 37
+    LEXUS_TT_RR_V3: 39
+    LEXUS_TT_SPARE_V2: 40
+  response: |-
+    7582A10076116404C4D
+    7582A214F5000000000
+- expected_values:
+    LEXUS_TT_FL_V2: 28
+    LEXUS_TT_FR_V3: 38
+    LEXUS_TT_RL_V3: 37
+    LEXUS_TT_RR_V3: 40
+    LEXUS_TT_SPARE_V2: 39
+  response: |-
+    7582A10076116444E4D
+    7582A21504F00000000
+- expected_values:
+    LEXUS_TT_FL_V2: 32
+    LEXUS_TT_FR_V3: 44
+    LEXUS_TT_RL_V3: 46
+    LEXUS_TT_RR_V3: 45
+    LEXUS_TT_SPARE_V2: 46
+  response: |-
+    7582A10076116485456
+    7582A21555600000000
+- expected_values:
+    LEXUS_TT_FL_V2: 33
+    LEXUS_TT_FR_V3: 46
+    LEXUS_TT_RL_V3: 46
+    LEXUS_TT_RR_V3: 47
+    LEXUS_TT_SPARE_V2: 48
+  response: |-
+    7582A10076116495656
+    7582A21575800000000
+- expected_values:
+    LEXUS_TT_FL_V2: 34
+    LEXUS_TT_FR_V3: 45
+    LEXUS_TT_RL_V3: 45
+    LEXUS_TT_RR_V3: 47
+    LEXUS_TT_SPARE_V2: 47
+  response: |-
+    7582A100761164A5555
+    7582A21575700000000
