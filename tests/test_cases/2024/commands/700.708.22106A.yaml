@@ -1,0 +1,17 @@
+command_id: 700.708.22106A
+test_cases:
+- expected_values:
+    LEXUS_FUEL_PUMP_DUTY_RATIO: 260.73171
+  response: 7080562106A10B4
+- expected_values:
+    LEXUS_FUEL_PUMP_DUTY_RATIO: 264.69512
+  response: 7080562106A10F5
+- expected_values:
+    LEXUS_FUEL_PUMP_DUTY_RATIO: 267.37805
+  response: 7080562106A1121
+- expected_values:
+    LEXUS_FUEL_PUMP_DUTY_RATIO: 271.28049
+  response: 7080562106A1161
+- expected_values:
+    LEXUS_FUEL_PUMP_DUTY_RATIO: 284.26829
+  response: 7080562106A1236
