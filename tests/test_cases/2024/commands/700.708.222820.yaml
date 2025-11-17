@@ -1,0 +1,17 @@
+command_id: 700.708.222820
+test_cases:
+- expected_values:
+    LEXUS_INTERCOOLER_WATER_PUMP: 35.21172
+  response: '708056228201689'
+- expected_values:
+    LEXUS_INTERCOOLER_WATER_PUMP: 35.35821
+  response: 7080562282016A1
+- expected_values:
+    LEXUS_INTERCOOLER_WATER_PUMP: 35.76715
+  response: '7080562282016E4'
+- expected_values:
+    LEXUS_INTERCOOLER_WATER_PUMP: 37.19539
+  response: 7080562282017CE
+- expected_values:
+    LEXUS_INTERCOOLER_WATER_PUMP: 39.96643
+  response: '708056228201994'

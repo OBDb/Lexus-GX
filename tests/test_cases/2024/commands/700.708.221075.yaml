@@ -1,0 +1,14 @@
+command_id: 700.708.221075
+test_cases:
+- expected_values:
+    LEXUS_INTERCOOLER_WP_VSS: 593463.992
+  response: 708056210758B4C
+- expected_values:
+    LEXUS_INTERCOOLER_WP_VSS: 593678.3828
+  response: 708056210758B55
+- expected_values:
+    LEXUS_INTERCOOLER_WP_VSS: 600253.034
+  response: 708056210758C69
+- expected_values:
+    LEXUS_INTERCOOLER_WP_VSS: 608876.3084
+  response: 708056210758DD3
