@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     LEXUS_ATF_THERMAL_DEGRAD_EST: 948
   response: 7090562162B03B4
+- expected_values:
+    LEXUS_ATF_THERMAL_DEGRAD_EST: 949
+  response: 7090562162B03B5
