@@ -4,11 +4,14 @@ test_cases:
     LEXUS_INJECTION: DIRECT
   response: '7080762101901288000'
 - expected_values:
+    LEXUS_INJECTION: DIRECT
+  response: 7080762101901FD8000
+- expected_values:
+    LEXUS_INJECTION: BOTH
+  response: '7080762101902068000'
+- expected_values:
     LEXUS_INJECTION: BOTH
   response: 70807621019021B8B54
 - expected_values:
     LEXUS_INJECTION: BOTH
   response: 7080762101902968AF6
-- expected_values:
-    LEXUS_INJECTION: BOTH
-  response: 7080762101902D18000
