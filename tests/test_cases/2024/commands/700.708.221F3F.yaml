@@ -1,14 +1,14 @@
 command_id: 700.708.221F3F
 test_cases:
 - expected_values:
-    LEXUS_CAT_T_22: 576.14
-  response: 70805621F3F0D5F
-- expected_values:
-    LEXUS_CAT_T_22: 788.18
-  response: 70805621F3F11F9
+    LEXUS_CAT_T_22: 126.14
+  response: 70805621F3F039B
 - expected_values:
     LEXUS_CAT_T_22: 1065.92
   response: 70805621F3F1800
 - expected_values:
-    LEXUS_CAT_T_22: 1206.32
-  response: 70805621F3F1B0C
+    LEXUS_CAT_T_22: 1157.9
+  response: 70805621F3F19FF
+- expected_values:
+    LEXUS_CAT_T_22: 1272.74
+  response: 70805621F3F1C7D
