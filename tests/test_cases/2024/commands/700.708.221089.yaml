@@ -1,14 +1,14 @@
 command_id: 700.708.221089
 test_cases:
 - expected_values:
-    LEXUS_EXHAUST_VVT_HOLD_LEARN_B1: 50.51304
-  response: '708056210892056'
-- expected_values:
-    LEXUS_EXHAUST_VVT_HOLD_LEARN_B1: 54.71127
-  response: '708056210892306'
+    LEXUS_EXHAUST_VVT_HOLD_LEARN_B1: 48.71293
+  response: 708056210891F2F
 - expected_values:
     LEXUS_EXHAUST_VVT_HOLD_LEARN_B1: 57.79283
   response: 7080562108924FF
+- expected_values:
+    LEXUS_EXHAUST_VVT_HOLD_LEARN_B1: 57.79893
+  response: '708056210892500'
 - expected_values:
     LEXUS_EXHAUST_VVT_HOLD_LEARN_B1: 59.42818
   response: 70805621089260B

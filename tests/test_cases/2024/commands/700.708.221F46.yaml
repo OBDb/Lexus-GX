@@ -4,8 +4,5 @@ test_cases:
     LEXUS_AMBIENT_T: 5
   response: 70804621F462D
 - expected_values:
-    LEXUS_AMBIENT_T: 6
-  response: 70804621F462E
-- expected_values:
-    LEXUS_AMBIENT_T: 7
-  response: 70804621F462F
+    LEXUS_AMBIENT_T: 16
+  response: 70804621F4638

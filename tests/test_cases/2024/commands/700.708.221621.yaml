@@ -4,6 +4,9 @@ test_cases:
     LEXUS_GEAR_V2: 1
   response: '7080462162101'
 - expected_values:
+    LEXUS_GEAR_V2: 2
+  response: '7080462162102'
+- expected_values:
     LEXUS_GEAR_V2: 3
   response: '7080462162103'
 - expected_values:
