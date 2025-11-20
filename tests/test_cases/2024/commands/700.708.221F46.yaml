@@ -1,8 +1,8 @@
 command_id: 700.708.221F46
 test_cases:
 - expected_values:
-    LEXUS_AMBIENT_T: 4
-  response: 70804621F462C
+    LEXUS_AMBIENT_T: 3
+  response: 70804621F462B
 - expected_values:
     LEXUS_AMBIENT_T: 42
   response: 70804621F4652
