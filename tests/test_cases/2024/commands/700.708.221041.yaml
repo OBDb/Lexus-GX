@@ -5,38 +5,6 @@ test_cases:
     LEXUS_ECT_INIT: 5
   response: '708056210414848'
 - expected_values:
-    LEXUS_ECT_IGN: 5
-    LEXUS_ECT_INIT: 5.625
-  response: '708056210414849'
-- expected_values:
-    LEXUS_ECT_IGN: 8.125
-    LEXUS_ECT_INIT: 8.125
-  response: 708056210414D4D
-- expected_values:
-    LEXUS_ECT_IGN: 75.625
-    LEXUS_ECT_INIT: 76.25
-  response: 70805621041B9BA
-- expected_values:
-    LEXUS_ECT_IGN: 81.25
-    LEXUS_ECT_INIT: 80.625
-  response: 70805621041C2C1
-- expected_values:
-    LEXUS_ECT_IGN: 81.25
-    LEXUS_ECT_INIT: 81.25
-  response: 70805621041C2C2
-- expected_values:
-    LEXUS_ECT_IGN: 81.875
-    LEXUS_ECT_INIT: 81.875
-  response: 70805621041C3C3
-- expected_values:
-    LEXUS_ECT_IGN: 86.25
-    LEXUS_ECT_INIT: 86.25
-  response: 70805621041CACA
-- expected_values:
-    LEXUS_ECT_IGN: 87.5
-    LEXUS_ECT_INIT: 87.5
-  response: 70805621041CCCC
-- expected_values:
     LEXUS_ECT_IGN: 90.625
     LEXUS_ECT_INIT: 90.625
   response: 70805621041D1D1

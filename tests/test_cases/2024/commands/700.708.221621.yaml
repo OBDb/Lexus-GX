@@ -1,29 +1,29 @@
 command_id: 700.708.221621
 test_cases:
 - expected_values:
-    LEXUS_GEAR_V2: 1
+    LEXUS_GEAR_V2_V3: 1
   response: '7080462162101'
 - expected_values:
-    LEXUS_GEAR_V2: 2
+    LEXUS_GEAR_V2_V3: 2
   response: '7080462162102'
 - expected_values:
-    LEXUS_GEAR_V2: 3
+    LEXUS_GEAR_V2_V3: 3
   response: '7080462162103'
 - expected_values:
-    LEXUS_GEAR_V2: 4
+    LEXUS_GEAR_V2_V3: 4
   response: '7080462162104'
 - expected_values:
-    LEXUS_GEAR_V2: 5
+    LEXUS_GEAR_V2_V3: 5
   response: '7080462162105'
 - expected_values:
-    LEXUS_GEAR_V2: 6
+    LEXUS_GEAR_V2_V3: 6
   response: '7080462162106'
 - expected_values:
-    LEXUS_GEAR_V2: 7
+    LEXUS_GEAR_V2_V3: 7
   response: '7080462162107'
 - expected_values:
-    LEXUS_GEAR_V2: 8
+    LEXUS_GEAR_V2_V3: 8
   response: '7080462162108'
 - expected_values:
-    LEXUS_GEAR_V2: 9
+    LEXUS_GEAR_V2_V3: 9
   response: '7080462162109'
