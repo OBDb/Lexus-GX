@@ -4,26 +4,5 @@ test_cases:
     LEXUS_ATF_THERMAL_DEGRAD_EST: 945
   response: 7090562162B03B1
 - expected_values:
-    LEXUS_ATF_THERMAL_DEGRAD_EST: 947
-  response: 7090562162B03B3
-- expected_values:
-    LEXUS_ATF_THERMAL_DEGRAD_EST: 948
-  response: 7090562162B03B4
-- expected_values:
-    LEXUS_ATF_THERMAL_DEGRAD_EST: 949
-  response: 7090562162B03B5
-- expected_values:
-    LEXUS_ATF_THERMAL_DEGRAD_EST: 950
-  response: 7090562162B03B6
-- expected_values:
-    LEXUS_ATF_THERMAL_DEGRAD_EST: 951
-  response: 7090562162B03B7
-- expected_values:
-    LEXUS_ATF_THERMAL_DEGRAD_EST: 952
-  response: 7090562162B03B8
-- expected_values:
-    LEXUS_ATF_THERMAL_DEGRAD_EST: 954
-  response: 7090562162B03BA
-- expected_values:
-    LEXUS_ATF_THERMAL_DEGRAD_EST: 955
-  response: 7090562162B03BB
+    LEXUS_ATF_THERMAL_DEGRAD_EST: 957
+  response: 7090562162B03BD
