@@ -1,8 +1,8 @@
 command_id: 700.708.22108D
 test_cases:
 - expected_values:
-    LEXUS_INTAKE_VVT_OVER_RET_LEARN_B1: 30.49804
-  response: 7080562108D0C33
+    LEXUS_INTAKE_VVT_OVER_RET_LEARN_B1: 30.45897
+  response: 7080562108D0C2F
 - expected_values:
     LEXUS_INTAKE_VVT_OVER_RET_LEARN_B1: 32.19725
   response: 7080562108D0CE1
