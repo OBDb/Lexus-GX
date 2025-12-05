@@ -14,5 +14,5 @@ test_cases:
   response: 708056210CD9300
 - expected_values:
     LEXUS_LFP: 100
-    LEXUS_LFPS: -2610.2
-  response: 708056210CD9A0A
+    LEXUS_LFPS: -2577.2
+  response: 708056210CD9B54
