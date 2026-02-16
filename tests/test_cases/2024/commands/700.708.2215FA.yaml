@@ -1,8 +1,8 @@
 command_id: 700.708.2215FA
 test_cases:
 - expected_values:
-    LEXUS_ALT_DUTY_CYCLE: 9.36585
-  response: 708056215FA0600
+    LEXUS_ALT_DUTY_CYCLE: 6.2439
+  response: 708056215FA0400
 - expected_values:
     LEXUS_ALT_DUTY_CYCLE: 13.26829
   response: 708056215FA0880
