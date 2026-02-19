@@ -1,0 +1,8 @@
+command_id: 700.708.221F2F
+test_cases:
+- expected_values:
+    LEXUS_FLI: 5.4902
+  response: 70804621F2F0E
+- expected_values:
+    LEXUS_FLI: 89.80392
+  response: 70804621F2FE5

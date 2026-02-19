@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     LEXUS_GEAR_V2: 9
   response: '7080462162109'
+- expected_values:
+    LEXUS_GEAR_V2: 10
+  response: 708046216210A

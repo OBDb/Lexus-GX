@@ -1,11 +1,11 @@
 command_id: 700.708.221627
 test_cases:
 - expected_values:
-    LEXUS_TRANSMISSION_FLUID_PAN_T_VAR_3: -40
+    LEXUS_ATF_T_PAN_V3: -40
   response: '708056216270000'
 - expected_values:
-    LEXUS_TRANSMISSION_FLUID_PAN_T_VAR_3: 11.875
-  response: '7080562162733E0'
+    LEXUS_ATF_T_PAN_V3: 1.875
+  response: '7080562162729E0'
 - expected_values:
-    LEXUS_TRANSMISSION_FLUID_PAN_T_VAR_3: 95
+    LEXUS_ATF_T_PAN_V3: 95
   response: '708056216278700'
