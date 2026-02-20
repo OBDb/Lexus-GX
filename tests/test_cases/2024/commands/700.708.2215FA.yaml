@@ -7,5 +7,5 @@ test_cases:
     LEXUS_ALT_DUTY_CYCLE: 13.26829
   response: 708056215FA0880
 - expected_values:
-    LEXUS_ALT_DUTY_CYCLE: 45.26829
-  response: 708056215FA1D00
+    LEXUS_ALT_DUTY_CYCLE: 57.7561
+  response: 708056215FA2500
