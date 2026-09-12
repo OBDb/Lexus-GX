@@ -83,6 +83,22 @@ test_cases:
     7582A214F4D48000000
 - expected_values:
     LEXUS_TT_1_V2: 46
+    LEXUS_TT_2_V2: 43
+    LEXUS_TT_4_V2: 40
+    LEXUS_TT_5_V2: 32
+    LEXUS_TT_FL_V2: 46
+    LEXUS_TT_FL_V2_V2: 46
+    LEXUS_TT_FR_V2: 43
+    LEXUS_TT_FR_V2_V2: 43
+    LEXUS_TT_RL_V2: -40
+    LEXUS_TT_RR_V2: 40
+    LEXUS_TT_RR_V2_V2: 40
+    LEXUS_TT_SPARE_V2: 32
+  response: |-
+    7582A10086210045653
+    7582A21005048000000
+- expected_values:
+    LEXUS_TT_1_V2: 46
     LEXUS_TT_2_V2: 48
     LEXUS_TT_3_V2: 49
     LEXUS_TT_4_V2: 46
