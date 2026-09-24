@@ -8,7 +8,7 @@ test_cases:
   response: 708056210758DFF
 - expected_values:
     LEXUS_IWP_SPEED: 300
-  response: '708056210759400'
+  response: '708056210758E00'
 - expected_values:
     LEXUS_IWP_SPEED: 300
   response: 70805621075A063
