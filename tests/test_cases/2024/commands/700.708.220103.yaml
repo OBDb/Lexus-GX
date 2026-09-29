@@ -1,0 +1,11 @@
+command_id: 700.708.220103
+test_cases:
+- expected_values:
+    LEXUS_ENG_ODO: 33588824
+  response: '7080762010302008658'
+- expected_values:
+    LEXUS_ENG_ODO: 33588825
+  response: '7080762010302008659'
+- expected_values:
+    LEXUS_ENG_ODO: 33588843
+  response: 708076201030200866B
