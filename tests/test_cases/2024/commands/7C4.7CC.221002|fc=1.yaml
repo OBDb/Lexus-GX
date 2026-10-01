@@ -1,0 +1,5 @@
+command_id: 7C4.7CC.221002|fc=1
+test_cases:
+- expected_values:
+    LEXUS_AAT_7C4_V2: 18.99
+  response: 7CC05621002076B
