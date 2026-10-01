@@ -12,3 +12,12 @@ test_cases:
 - expected_values:
     LEXUS_ENG_ODO: 34452
   response: '7080762010302008694'
+- expected_values:
+    LEXUS_ENG_ODO: 34504
+  response: 70807620103020086C8
+- expected_values:
+    LEXUS_ENG_ODO: 34505
+  response: 70807620103020086C9
+- expected_values:
+    LEXUS_ENG_ODO: 34506
+  response: 70807620103020086CA
