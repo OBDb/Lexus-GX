@@ -1,8 +1,10 @@
-command_id: 7D2.708.221F46
+command_id: 700.708.221F46
 test_cases:
 - expected_values:
     LEXUS_AAT: -10
+    LEXUS_AMBIENT_T_700: -10
   response: 70804621F461E
 - expected_values:
     LEXUS_AAT: 55
+    LEXUS_AMBIENT_T_700: 55
   response: 70804621F465F
