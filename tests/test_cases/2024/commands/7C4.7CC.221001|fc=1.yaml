@@ -12,3 +12,15 @@ test_cases:
 - expected_values:
     LEXUS_CABIN_T_V2: 21.61
   response: 7CC056210010871
+- expected_values:
+    LEXUS_CABIN_T_V2: 25.45
+  response: 7CC0562100109F1
+- expected_values:
+    LEXUS_CABIN_T_V2: 25.67
+  response: 7CC056210010A07
+- expected_values:
+    LEXUS_CABIN_T_V2: 25.75
+  response: 7CC056210010A0F
+- expected_values:
+    LEXUS_CABIN_T_V2: 26.18
+  response: 7CC056210010A3A
