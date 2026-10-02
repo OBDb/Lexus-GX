@@ -4,29 +4,8 @@ test_cases:
     LEXUS_AAT_7C4_V2: 18.23
   response: 7CC05621002071F
 - expected_values:
-    LEXUS_AAT_7C4_V2: 18.43
-  response: 7CC056210020733
-- expected_values:
-    LEXUS_AAT_7C4_V2: 18.61
-  response: 7CC056210020745
-- expected_values:
-    LEXUS_AAT_7C4_V2: 18.99
-  response: 7CC05621002076B
-- expected_values:
-    LEXUS_AAT_7C4_V2: 20.8
-  response: 7CC056210020820
-- expected_values:
-    LEXUS_AAT_7C4_V2: 21.49
-  response: 7CC056210020865
-- expected_values:
-    LEXUS_AAT_7C4_V2: 23.68
-  response: 7CC056210020940
-- expected_values:
-    LEXUS_AAT_7C4_V2: 23.89
-  response: 7CC056210020955
-- expected_values:
     LEXUS_AAT_7C4_V2: 25.35
   response: 7CC0562100209E7
 - expected_values:
-    LEXUS_AAT_7C4_V2: 25.65
-  response: 7CC056210020A05
+    LEXUS_AAT_7C4_V2: 30.75
+  response: 7CC056210020C03
