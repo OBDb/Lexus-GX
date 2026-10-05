@@ -12,7 +12,9 @@ test_cases:
 - expected_values:
     LEXUS_TP_4: 36.72727
     LEXUS_TP_5: 30.66667
+    LEXUS_TP_FL_V2: 0
     LEXUS_TP_FR_V2: 0
+    LEXUS_TP_RL_V2: 0
     LEXUS_TP_RR_V2: 2.51724
     LEXUS_TP_SPARE_V2: 2.08621
   response: |-
@@ -22,8 +24,8 @@ test_cases:
 - expected_values:
     LEXUS_TP_4: 40.12121
     LEXUS_TP_5: 39.63636
+    LEXUS_TP_FL_V2: 0
     LEXUS_TP_FR_V2: 0
-    LEXUS_TP_RL_V2: 0
     LEXUS_TP_RR_V2: 2.75862
     LEXUS_TP_SPARE_V2: 2.72414
   response: |-
@@ -58,6 +60,7 @@ test_cases:
     LEXUS_TP_3: 36.72727
     LEXUS_TP_4: 37.93939
     LEXUS_TP_5: 36
+    LEXUS_TP_FL_V2: 0
     LEXUS_TP_FR_V2: 2.53448
     LEXUS_TP_RL_V2: 2.51724
     LEXUS_TP_RR_V2: 2.60345
