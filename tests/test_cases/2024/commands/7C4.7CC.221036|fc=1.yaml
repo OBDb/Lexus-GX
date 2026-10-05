@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEXUS_HVAC_SET_RAW: 40
   response: 7CC0462103628
+- expected_values:
+    LEXUS_HVAC_SET_RAW: 41
+  response: 7CC0462103629
