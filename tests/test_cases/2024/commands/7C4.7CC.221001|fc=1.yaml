@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.221001|fc=1
 test_cases:
 - expected_values:
-    LEXUS_CABIN_T_V2: 19.41
-  response: 7CC056210010795
+    LEXUS_CABIN_T_V2: 14.19
+  response: 7CC05621001058B
 - expected_values:
     LEXUS_CABIN_T_V2: 28.19
   response: 7CC056210010B03
