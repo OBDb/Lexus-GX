@@ -24,3 +24,9 @@ test_cases:
 - expected_values:
     LEXUS_BLOWER: 7
   response: 7CC046228010D
+- expected_values:
+    LEXUS_BLOWER: 7
+  response: 7CC0462280112
+- expected_values:
+    LEXUS_BLOWER: 7
+  response: 7CC0462280117
