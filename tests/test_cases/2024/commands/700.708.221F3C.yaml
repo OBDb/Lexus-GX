@@ -1,14 +1,14 @@
 command_id: 700.708.221F3C
 test_cases:
 - expected_values:
-    LEXUS_CAT_T_11: 6.6
+    GX_CAT_T_11: 6.6
   response: 70805621F3C01D2
 - expected_values:
-    LEXUS_CAT_T_11: 62.3
+    GX_CAT_T_11: 62.3
   response: 70805621F3C03FF
 - expected_values:
-    LEXUS_CAT_T_11: 139.2
+    GX_CAT_T_11: 139.2
   response: 70805621F3C0700
 - expected_values:
-    LEXUS_CAT_T_11: 800.5
+    GX_CAT_T_11: 800.5
   response: 70805621F3C20D5
