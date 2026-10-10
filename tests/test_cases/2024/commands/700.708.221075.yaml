@@ -1,14 +1,14 @@
 command_id: 700.708.221075
 test_cases:
 - expected_values:
-    LEXUS_IWP_SPEED: 32973
+    GX_IWP_SPEED: 32973
   response: 7080562107580CD
 - expected_values:
-    LEXUS_IWP_SPEED: 36351
+    GX_IWP_SPEED: 36351
   response: 708056210758DFF
 - expected_values:
-    LEXUS_IWP_SPEED: 36352
+    GX_IWP_SPEED: 36352
   response: '708056210758E00'
 - expected_values:
-    LEXUS_IWP_SPEED: 41059
+    GX_IWP_SPEED: 41059
   response: 70805621075A063

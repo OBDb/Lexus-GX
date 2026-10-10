@@ -1,11 +1,11 @@
 command_id: 7C4.7CC.221002|fc=1
 test_cases:
 - expected_values:
-    LEXUS_AAT_7C4_V2: 7.55
+    GX_AAT_7C4_V2: 7.55
   response: 7CC0562100202F3
 - expected_values:
-    LEXUS_AAT_7C4_V2: 22.95
+    GX_AAT_7C4_V2: 22.95
   response: 7CC0562100208F7
 - expected_values:
-    LEXUS_AAT_7C4_V2: 30.75
+    GX_AAT_7C4_V2: 30.75
   response: 7CC056210020C03

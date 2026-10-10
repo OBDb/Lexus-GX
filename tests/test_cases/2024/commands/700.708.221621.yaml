@@ -1,32 +1,32 @@
 command_id: 700.708.221621
 test_cases:
 - expected_values:
-    LEXUS_GEAR_700: 1
+    GX_GEAR_700: 1
   response: '7080462162101'
 - expected_values:
-    LEXUS_GEAR_700: 2
+    GX_GEAR_700: 2
   response: '7080462162102'
 - expected_values:
-    LEXUS_GEAR_700: 3
+    GX_GEAR_700: 3
   response: '7080462162103'
 - expected_values:
-    LEXUS_GEAR_700: 4
+    GX_GEAR_700: 4
   response: '7080462162104'
 - expected_values:
-    LEXUS_GEAR_700: 5
+    GX_GEAR_700: 5
   response: '7080462162105'
 - expected_values:
-    LEXUS_GEAR_700: 6
+    GX_GEAR_700: 6
   response: '7080462162106'
 - expected_values:
-    LEXUS_GEAR_700: 7
+    GX_GEAR_700: 7
   response: '7080462162107'
 - expected_values:
-    LEXUS_GEAR_700: 8
+    GX_GEAR_700: 8
   response: '7080462162108'
 - expected_values:
-    LEXUS_GEAR_700: 9
+    GX_GEAR_700: 9
   response: '7080462162109'
 - expected_values:
-    LEXUS_GEAR_700: 10
+    GX_GEAR_700: 10
   response: 708046216210A

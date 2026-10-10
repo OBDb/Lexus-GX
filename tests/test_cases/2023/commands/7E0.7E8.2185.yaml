@@ -1,14 +1,12 @@
 command_id: 7E0.7E8.2185
 test_cases:
 - expected_values:
-    LEXUS_GEAR: 1
-    LEXUS_GEAR_V2: 1
-    LEXUS_TQC_LOCKUP: 0
+    GX_GEAR: 1
+    GX_GEAR_LOCKUP: 0
   response: '7E8056185010010'
 - expected_values:
-    LEXUS_GEAR: 1
-    LEXUS_GEAR_V2: 1
-    LEXUS_TQC_LOCKUP: 0
+    GX_GEAR: 1
+    GX_GEAR_LOCKUP: 0
   response: |-
     7E8056185010010
     7E803410D00
@@ -17,21 +15,18 @@ test_cases:
     7E803410458
     7E803410E93
 - expected_values:
-    LEXUS_GEAR: 1
-    LEXUS_GEAR_V2: 1
-    LEXUS_TQC_LOCKUP: 0
+    GX_GEAR: 1
+    GX_GEAR_LOCKUP: 0
   response: |-
     7E8056185010010
     7E8064100BFBFE893
 - expected_values:
-    LEXUS_GEAR: 2
-    LEXUS_GEAR_V2: 2
-    LEXUS_TQC_LOCKUP: 0
+    GX_GEAR: 2
+    GX_GEAR_LOCKUP: 0
   response: '7E8056185020000'
 - expected_values:
-    LEXUS_GEAR: 4
-    LEXUS_GEAR_V2: 4
-    LEXUS_TQC_LOCKUP: 0
+    GX_GEAR: 4
+    GX_GEAR_LOCKUP: 0
   response: |-
     7E8056185040010
     7E804410C0C6A
@@ -39,25 +34,21 @@ test_cases:
     7E803410462
     7E803410E8F
 - expected_values:
-    LEXUS_GEAR: 4
-    LEXUS_GEAR_V2: 4
-    LEXUS_TQC_LOCKUP: 1
+    GX_GEAR: 4
+    GX_GEAR_LOCKUP: 1
   response: '7E8056185048000'
 - expected_values:
-    LEXUS_GEAR: 4
-    LEXUS_GEAR_V2: 4
-    LEXUS_TQC_LOCKUP: 1
+    GX_GEAR: 4
+    GX_GEAR_LOCKUP: 1
   response: '7E8056185048018'
 - expected_values:
-    LEXUS_GEAR: 5
-    LEXUS_GEAR_V2: 5
-    LEXUS_TQC_LOCKUP: 0
+    GX_GEAR: 5
+    GX_GEAR_LOCKUP: 0
   response: |-
     7E8056185050010
     7E8034104C6
     7E803410EAF
 - expected_values:
-    LEXUS_GEAR: 6
-    LEXUS_GEAR_V2: 6
-    LEXUS_TQC_LOCKUP: 0
+    GX_GEAR: 6
+    GX_GEAR_LOCKUP: 0
   response: '7E8056185060000'

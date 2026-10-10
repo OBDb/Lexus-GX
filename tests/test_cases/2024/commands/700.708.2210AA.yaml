@@ -1,8 +1,8 @@
 command_id: 700.708.2210AA
 test_cases:
 - expected_values:
-    LEXUS_MISFIRE_LOAD_700: 0
+    GX_MISFIRE_LOAD_700: 0
   response: 708046210AA00
 - expected_values:
-    LEXUS_MISFIRE_LOAD_700: 16
+    GX_MISFIRE_LOAD_700: 16
   response: 708046210AA08

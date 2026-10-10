@@ -1,11 +1,11 @@
 command_id: 700.708.222820
 test_cases:
 - expected_values:
-    LEXUS_INTERCOOLER_WATER: 0
+    GX_INTERCOOLER_WATER: 0
   response: '708056228200000'
 - expected_values:
-    LEXUS_INTERCOOLER_WATER: 35.92584
+    GX_INTERCOOLER_WATER: 35.92584
   response: 7080562282016FE
 - expected_values:
-    LEXUS_INTERCOOLER_WATER: 84.99886
+    GX_INTERCOOLER_WATER: 84.99886
   response: '708056228203666'

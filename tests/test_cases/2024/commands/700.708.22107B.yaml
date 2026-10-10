@@ -1,7 +1,7 @@
 command_id: 700.708.22107B
 test_cases:
 - expected_values:
-    LEXUS_EOT: 15
+    GX_EOT: 15
   response: |-
     708102262107B000000
     70821000003697FB081
@@ -9,7 +9,7 @@ test_cases:
     7082380008000000083
     7082437816F3832023A
 - expected_values:
-    LEXUS_EOT: 10
+    GX_EOT: 10
   response: |-
     708102262107B000000
     7082100000ACD7FF382
@@ -17,7 +17,7 @@ test_cases:
     7082380008000000082
     708243275822D2D023D
 - expected_values:
-    LEXUS_EOT: 16
+    GX_EOT: 16
   response: |-
     708102262107B000004
     7082126010AD27F9581
@@ -25,7 +25,7 @@ test_cases:
     7082380007FFF000082
     708243884843737035A
 - expected_values:
-    LEXUS_EOT: 23
+    GX_EOT: 23
   response: |-
     708102262107B000004
     708214D010783804682
@@ -33,7 +33,7 @@ test_cases:
     7082380008000000081
     708243F84843C3C0000
 - expected_values:
-    LEXUS_EOT: 15
+    GX_EOT: 15
   response: |-
     708102262107B000004
     70821580100057FB082
@@ -41,7 +41,7 @@ test_cases:
     7082380008000000083
     70824376F6F3232035F
 - expected_values:
-    LEXUS_EOT: 51
+    GX_EOT: 51
   response: |-
     708102262107B000004
     708216C0100047F6A81
@@ -49,7 +49,7 @@ test_cases:
     708238000800C000082
     708245B787833330360
 - expected_values:
-    LEXUS_EOT: 21
+    GX_EOT: 21
   response: |-
     708102262107B000004
     708217F01032C800182
@@ -57,7 +57,7 @@ test_cases:
     7082380007FFF000082
     708243D60603A3A0000
 - expected_values:
-    LEXUS_EOT: 15
+    GX_EOT: 15
   response: |-
     708102262107B000004
     7082185012CF07FC082
@@ -65,7 +65,7 @@ test_cases:
     7082380008002000083
     7082437848435350364
 - expected_values:
-    LEXUS_EOT: 20
+    GX_EOT: 20
   response: |-
     708102262107B000004
     7082189020ACD803382
@@ -73,7 +73,7 @@ test_cases:
     7082380008002000082
     708243C7D7D3C3C0000
 - expected_values:
-    LEXUS_EOT: 3
+    GX_EOT: 3
   response: |-
     708102262107B000004
     70821C2010A9B7FCC81
@@ -81,7 +81,7 @@ test_cases:
     7082380008001000082
     708242B6E6E2A2A0364
 - expected_values:
-    LEXUS_EOT: 10
+    GX_EOT: 10
   response: |-
     708102262107B003104
     708212D0101D97FE787
@@ -89,7 +89,7 @@ test_cases:
     7082380BD8007000080
     70824325B5B2D2D0010
 - expected_values:
-    LEXUS_EOT: 23
+    GX_EOT: 23
   response: |-
     708102262107B003104
     708214D01064F804685
@@ -97,7 +97,7 @@ test_cases:
     7082380007FFF00007E
     708243F84843C3C0008
 - expected_values:
-    LEXUS_EOT: 23
+    GX_EOT: 23
   response: |-
     708102262107B003104
     708214D010721804688
@@ -105,7 +105,7 @@ test_cases:
     7082381FF8000000080
     708243F84843C3C0000
 - expected_values:
-    LEXUS_EOT: 23
+    GX_EOT: 23
   response: |-
     708102262107B003104
     708214D01073F804686
@@ -113,7 +113,7 @@ test_cases:
     7082380008000000082
     708243F84843C3C0000
 - expected_values:
-    LEXUS_EOT: 29
+    GX_EOT: 29
   response: |-
     708102262107B003104
     708215601014F803386
@@ -121,7 +121,7 @@ test_cases:
     708238000800400007F
     708244573733F3F0855
 - expected_values:
-    LEXUS_EOT: 23
+    GX_EOT: 23
   response: |-
     708102262107B003104
     708215C0104A37FDB85
@@ -129,7 +129,7 @@ test_cases:
     7082380008000000083
     708243F74743D3D08A9
 - expected_values:
-    LEXUS_EOT: 24
+    GX_EOT: 24
   response: |-
     708102262107B003204
     708216301003D7FFF86
@@ -137,7 +137,7 @@ test_cases:
     7082380B08002000081
     708244079792E2E0262
 - expected_values:
-    LEXUS_EOT: 10
+    GX_EOT: 10
   response: |-
     708102262107B003204
     7082163010ACD7FF38A
@@ -145,7 +145,7 @@ test_cases:
     7082381B48000000082
     708243275822D2D0000
 - expected_values:
-    LEXUS_EOT: 35
+    GX_EOT: 35
   response: |-
     708102262107B003204
     7082192010000804086
@@ -153,7 +153,7 @@ test_cases:
     7082383028006000080
     708244B757446460000
 - expected_values:
-    LEXUS_EOT: 58
+    GX_EOT: 58
   response: |-
     708102262107B003604
     70821510200027FDD82
@@ -161,7 +161,7 @@ test_cases:
     708238000800C000082
     70824627D7D42420004
 - expected_values:
-    LEXUS_EOT: 27
+    GX_EOT: 27
   response: |-
     708102262107B003A04
     7082178011C67802887
@@ -169,7 +169,7 @@ test_cases:
     70823817F8000000082
     70824438C8C41410F20
 - expected_values:
-    LEXUS_EOT: 33
+    GX_EOT: 33
   response: |-
     708102262107B003C04
     7082113010867805189
@@ -177,7 +177,7 @@ test_cases:
     7082383538004000080
     7082449878747470003
 - expected_values:
-    LEXUS_EOT: 28
+    GX_EOT: 28
   response: |-
     708102262107B003C04
     708212F010001803E8B
@@ -185,7 +185,7 @@ test_cases:
     708238301800C000080
     7082444738441410006
 - expected_values:
-    LEXUS_EOT: 31
+    GX_EOT: 31
   response: |-
     708102262107B003E04
     708212D010004801589
@@ -193,7 +193,7 @@ test_cases:
     7082383318010000081
     7082447738750420000
 - expected_values:
-    LEXUS_EOT: 4
+    GX_EOT: 4
   response: |-
     708102262107B003F04
     708215E01035C7FCF85
@@ -201,7 +201,7 @@ test_cases:
     7082380008001000082
     708242C838328280DFF
 - expected_values:
-    LEXUS_EOT: 15
+    GX_EOT: 15
   response: |-
     708102262107B004104
     7082147010FF0800885
@@ -209,7 +209,7 @@ test_cases:
     7082380007FFF00007F
     70824377D7D37370D75
 - expected_values:
-    LEXUS_EOT: 13
+    GX_EOT: 13
   response: |-
     708102262107B004104
     70821750100407FE085
@@ -217,7 +217,7 @@ test_cases:
     7082380008003000083
     7082435646134340000
 - expected_values:
-    LEXUS_EOT: 45
+    GX_EOT: 45
   response: |-
     708102262107B004304
     70821A2010026808A8B
@@ -225,7 +225,7 @@ test_cases:
     7082382D9800C00006E
     708245557574C4C133E
 - expected_values:
-    LEXUS_EOT: 18
+    GX_EOT: 18
   response: |-
     708102262107B004804
     708213E013A60800487
@@ -233,7 +233,7 @@ test_cases:
     70823810B7FFF000081
     708243A87873939298D
 - expected_values:
-    LEXUS_EOT: 11
+    GX_EOT: 11
   response: |-
     708102262107B004E04
     70821FE0100007FAB8A
@@ -241,7 +241,7 @@ test_cases:
     708238000800A000082
     7082433507D34300000
 - expected_values:
-    LEXUS_EOT: 31
+    GX_EOT: 31
   response: |-
     708102262107B005004
     708217001000780008F
@@ -249,7 +249,7 @@ test_cases:
     70823830B800F000082
     70824475083473F0000
 - expected_values:
-    LEXUS_EOT: -2
+    GX_EOT: -2
   response: |-
     708102262107B005B04
     70821E80100007F218F
@@ -257,7 +257,7 @@ test_cases:
     7082380008000000080
     708242623791E230191
 - expected_values:
-    LEXUS_EOT: -10
+    GX_EOT: -10
   response: |-
     708102262107B005B04
     70821E80100557F218A
@@ -265,7 +265,7 @@ test_cases:
     708238000800900004A
     708241E27271E1E0000
 - expected_values:
-    LEXUS_EOT: -8
+    GX_EOT: -8
   response: |-
     708102262107B005F04
     70821AE0100057F5D8C
@@ -273,7 +273,7 @@ test_cases:
     708238000800D00003F
     7082420262620200027
 - expected_values:
-    LEXUS_EOT: -4
+    GX_EOT: -4
   response: |-
     708102262107B006004
     70821D40100027FA18A

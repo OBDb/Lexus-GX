@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.222801|fc=1
 test_cases:
 - expected_values:
-    LEXUS_BLOWER: 0
+    GX_BLOWER: 0
   response: 7CC0462280100
 - expected_values:
-    LEXUS_BLOWER: 7
+    GX_BLOWER: 7
   response: 7CC0462280117
