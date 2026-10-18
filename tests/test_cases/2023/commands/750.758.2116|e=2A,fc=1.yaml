@@ -10,6 +10,23 @@ test_cases:
     7582A10076116000000
     7582A21000000000000
 - expected_values:
+    GX_TT_SPARE: 41
+  response: |-
+    7582A10076116000000
+    7582A21005100000000
+- expected_values:
+    GX_TT_RL: 35
+    GX_TT_RR: 35
+  response: |-
+    7582A1007611600004B
+    7582A214B0000000000
+- expected_values:
+    GX_TT_FL: 10
+    GX_TT_RL: 7
+  response: |-
+    7582A1007611632002F
+    7582A21000000000000
+- expected_values:
     GX_TT_FL: 12
     GX_TT_FR: 21
     GX_TT_RL: 22
