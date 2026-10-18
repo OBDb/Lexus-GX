@@ -10,5 +10,8 @@ test_cases:
     GX_FLV: 15.36
   response: 7C8056210220600
 - expected_values:
+    GX_FLV: 79.36
+  response: 7C8056210221F00
+- expected_values:
     GX_FLV: null
   response: 7C805621022FFFF
