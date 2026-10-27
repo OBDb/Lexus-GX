@@ -1,0 +1,64 @@
+command_id: 750.758.2130|e=2A,ta=2A,fc=1
+test_cases:
+- expected_values:
+    GX_TP_FL_V1: null
+    GX_TP_FR_V1: null
+    GX_TP_RL_V1: null
+    GX_TP_RR_V1: null
+    GX_TP_SPARE_V1: null
+  response: |-
+    7582A10076130000000
+    7582A21000000000000
+- expected_values:
+    GX_TP_RL_V1: 2.12069
+  response: |-
+    7582A10076130000098
+    7582A21000000000000
+- expected_values:
+    GX_TP_FR_V1: 2.05172
+    GX_TP_RL_V1: 2.10345
+    GX_TP_RR_V1: 1.96552
+    GX_TP_SPARE_V1: 1.98276
+  response: |-
+    7582A10076130009497
+    7582A218F9000000000
+- expected_values:
+    GX_TP_FR_V1: 2.60345
+    GX_TP_RL_V1: 2.62069
+    GX_TP_RR_V1: 2.60345
+    GX_TP_SPARE_V1: 2.51724
+  response: |-
+    7582A1007613000B4B5
+    7582A21B4AF00000000
+- expected_values:
+    GX_TP_FL_V1: 1.2931
+  response: |-
+    7582A10076130680000
+    7582A21000000000000
+- expected_values:
+    GX_TP_FL_V1: 1.37931
+    GX_TP_FR_V1: 2.68966
+    GX_TP_RL_V1: 2.72414
+    GX_TP_RR_V1: 2.65517
+    GX_TP_SPARE_V1: 2.56897
+  response: |-
+    7582A100761306DB9BB
+    7582A21B7B200000000
+- expected_values:
+    GX_TP_FL_V1: 1.37931
+    GX_TP_FR_V1: 2.7069
+    GX_TP_RL_V1: 2.7069
+    GX_TP_RR_V1: 2.65517
+    GX_TP_SPARE_V1: 2.58621
+  response: |-
+    7582A100761306DBABA
+    7582A21B7B300000000
+- expected_values:
+    GX_TP_FL_V1: 1.46552
+    GX_TP_FR_V1: 2.2931
+    GX_TP_RL_V1: 2.37931
+    GX_TP_RR_V1: 2.22414
+    GX_TP_SPARE_V1: 2.22414
+  response: |-
+    7582A1007613072A2A7
+    7582A219E9E00000000

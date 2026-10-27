@@ -43,9 +43,6 @@ test_cases:
     7E8064100BFBFE893
 - expected_values:
     GX_ODO_7E0: 60686
-  response: 7E805612800ED0E
-- expected_values:
-    GX_ODO_7E0: 60686
   response: |-
     7E805612800ED0E
     7E803410D16
@@ -53,3 +50,9 @@ test_cases:
     7E803411126
     7E803410472
     7E803410581
+- expected_values:
+    GX_ODO_7E0: 65281
+  response: 7E805612800FF01
+- expected_values:
+    GX_ODO_7E0: 65556
+  response: '7E8056128010014'

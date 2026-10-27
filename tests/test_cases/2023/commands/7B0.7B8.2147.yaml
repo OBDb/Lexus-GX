@@ -3,54 +3,54 @@ test_cases:
 - expected_values:
     GX_LAT_G: 0
     GX_LNG_G: 0
-    GX_STEER_ANGLE: -25.5
-    GX_YAW_RATE: -3
-  response: 7B807614700007D7F01
+    GX_STEER_ANGLE: -284.6
+    GX_YAW_RATE: -11
+  response: 7B807614700007574E2
 - expected_values:
     GX_LAT_G: 0
     GX_LNG_G: 0
-    GX_STEER_ANGLE: -0.1
-    GX_YAW_RATE: 0
-  response: 7B80761470000807FFF
+    GX_STEER_ANGLE: 618.7
+    GX_YAW_RATE: -9
+  response: 7B8076147000077982B
 - expected_values:
     GX_LAT_G: 0
     GX_LNG_G: 0
-    GX_STEER_ANGLE: 0
+    GX_STEER_ANGLE: -599.9
     GX_YAW_RATE: 0
-  response: 7B80761470000808000
+  response: 7B80761470000806891
 - expected_values:
     GX_LAT_G: 0
-    GX_LNG_G: 0.06
-    GX_STEER_ANGLE: -535.1
-    GX_YAW_RATE: -4
-  response: 7B807614700037C6B19
+    GX_LNG_G: 0
+    GX_STEER_ANGLE: -230.4
+    GX_YAW_RATE: 0
+  response: 7B80761470000807700
+- expected_values:
+    GX_LAT_G: 0
+    GX_LNG_G: 0
+    GX_STEER_ANGLE: -76.9
+    GX_YAW_RATE: 0
+  response: 7B80761470000807CFF
 - expected_values:
     GX_LAT_G: 0
     GX_LNG_G: -0.02
-    GX_STEER_ANGLE: -8.8
-    GX_YAW_RATE: -2
-  response: 7B807614700FF7E7FA8
+    GX_STEER_ANGLE: -45.5
+    GX_YAW_RATE: -4
+  response: 7B807614700FF7C7E39
 - expected_values:
-    GX_LAT_G: 0.06
-    GX_LNG_G: 0
-    GX_STEER_ANGLE: 580.5
-    GX_YAW_RATE: 16
-  response: 7B807614703009096AD
+    GX_LAT_G: 0.08
+    GX_LNG_G: -0.14
+    GX_STEER_ANGLE: 600.2
+    GX_YAW_RATE: 31
+  response: 7B807614704F99F9772
 - expected_values:
-    GX_LAT_G: 0.14
-    GX_LNG_G: 0.04
-    GX_STEER_ANGLE: 537.4
-    GX_YAW_RATE: 27
-  response: 7B807614707029B94FE
-- expected_values:
-    GX_LAT_G: -0.18
-    GX_LNG_G: 0.06
-    GX_STEER_ANGLE: -368.5
-    GX_YAW_RATE: -31
-  response: 7B8076147F70361719B
+    GX_LAT_G: -0.38
+    GX_LNG_G: -0.14
+    GX_STEER_ANGLE: -503.6
+    GX_YAW_RATE: -37
+  response: 7B8076147EDF95B6C54
 - expected_values:
     GX_LAT_G: -0.02
     GX_LNG_G: 0
-    GX_STEER_ANGLE: -4.1
-    GX_YAW_RATE: -1
-  response: 7B8076147FF007F7FD7
+    GX_STEER_ANGLE: -259.6
+    GX_YAW_RATE: -13
+  response: 7B8076147FF007375DC

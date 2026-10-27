@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.2183
+test_cases:
+- expected_values:
+    GX_G_SENS_CALIBRATION: 0
+    GX_TRANS_OIL_PRESS: 0
+  response: 7E80461830E64
+- expected_values:
+    GX_G_SENS_CALIBRATION: 0
+    GX_TRANS_OIL_PRESS: 0
+  response: 7E80461830E65
+- expected_values:
+    GX_G_SENS_CALIBRATION: 0
+    GX_TRANS_OIL_PRESS: 0
+  response: 7E80461830E66
+- expected_values:
+    GX_G_SENS_CALIBRATION: 0
+    GX_TRANS_OIL_PRESS: 0
+  response: 7E80461830E67

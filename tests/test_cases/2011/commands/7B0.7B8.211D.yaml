@@ -1,0 +1,22 @@
+command_id: 7B0.7B8.211D
+test_cases:
+- expected_values:
+    GX_MAIN_IDLE: 0
+    GX_RESERVOIR_WARNING: 0
+  response: |-
+    211D1
+    7B803611D00
+- expected_values:
+    GX_MAIN_IDLE: 1
+    GX_RESERVOIR_WARNING: 0
+  response: |-
+    211D1
+    7B803611D20
+- expected_values:
+    GX_MAIN_IDLE: 0
+    GX_RESERVOIR_WARNING: 0
+  response: 7B803611D00
+- expected_values:
+    GX_MAIN_IDLE: 1
+    GX_RESERVOIR_WARNING: 0
+  response: 7B803611D20

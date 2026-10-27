@@ -1,0 +1,10 @@
+command_id: 7B0.7B8.211F
+test_cases:
+- expected_values:
+    GX_PARKING_BRAKE_7B0: 0
+    GX_STOP_LIGHT: 0
+  response: 7B805611F000030
+- expected_values:
+    GX_PARKING_BRAKE_7B0: 0
+    GX_STOP_LIGHT: 1
+  response: 7B805611F802030

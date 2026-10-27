@@ -1,0 +1,22 @@
+command_id: 7C4.7CC.2141
+test_cases:
+- expected_values:
+    GX_AIR_MIX_SERVO_ACT_D: 26
+    GX_AIR_MIX_SERVO_TARG_D: 26
+  response: 7CC0661411A1A093C
+- expected_values:
+    GX_AIR_MIX_SERVO_ACT_D: 60
+    GX_AIR_MIX_SERVO_TARG_D: 60
+  response: 7CC0661413C3C062C
+- expected_values:
+    GX_AIR_MIX_SERVO_ACT_D: 66
+    GX_AIR_MIX_SERVO_TARG_D: 66
+  response: 7CC06614142420950
+- expected_values:
+    GX_AIR_MIX_SERVO_ACT_D: 107
+    GX_AIR_MIX_SERVO_TARG_D: 102
+  response: 7CC066141666B073C
+- expected_values:
+    GX_AIR_MIX_SERVO_ACT_D: 107
+    GX_AIR_MIX_SERVO_TARG_D: 107
+  response: 7CC0661416B6B0628

@@ -1,0 +1,42 @@
+command_id: 7E0.7E8.21E1
+test_cases:
+- expected_values:
+    GX_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E10002325C
+    7E82100001102000000
+- expected_values:
+    GX_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E10002325C
+    7E821000018EF000000
+- expected_values:
+    GX_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E10002325C
+    7E82100001DA0000000
+- expected_values:
+    GX_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E10002325C
+    7E82100002107000000
+- expected_values:
+    GX_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E10002325D
+    7E82100000319000000
+- expected_values:
+    GX_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E10002325E
+    7E82100001028000000
+- expected_values:
+    GX_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100023260
+    7E82100000FBE000000
+- expected_values:
+    GX_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100023261
+    7E82100000369000000

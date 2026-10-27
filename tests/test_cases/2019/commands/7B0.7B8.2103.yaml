@@ -1,0 +1,20 @@
+command_id: 7B0.7B8.2103
+test_cases:
+- expected_values:
+    GX_TIRE_FL_SPD: 0
+    GX_TIRE_FR_SPD: 0
+    GX_TIRE_RL_SPD: 0
+    GX_TIRE_RR_SPD: 0
+  response: 7B80761030000000000
+- expected_values:
+    GX_TIRE_FL_SPD: 2.56
+    GX_TIRE_FR_SPD: 2.56
+    GX_TIRE_RL_SPD: 2.56
+    GX_TIRE_RR_SPD: 2.56
+  response: 7B807610302020202F0
+- expected_values:
+    GX_TIRE_FL_SPD: 58.88
+    GX_TIRE_FR_SPD: 57.6
+    GX_TIRE_RL_SPD: 58.88
+    GX_TIRE_RR_SPD: 57.6
+  response: 7B80761032D2E2D2E00

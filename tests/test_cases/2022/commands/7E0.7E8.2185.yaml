@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.2185
+test_cases:
+- expected_values:
+    GX_GEAR: 1
+    GX_GEAR_LOCKUP: 0
+  response: '7E8056185010010'
+- expected_values:
+    GX_GEAR: 2
+    GX_GEAR_LOCKUP: 0
+  response: '7E8056185020000'
+- expected_values:
+    GX_GEAR: 5
+    GX_GEAR_LOCKUP: 1
+  response: '7E8056185058018'
+- expected_values:
+    GX_GEAR: 6
+    GX_GEAR_LOCKUP: 0
+  response: '7E8056185060010'

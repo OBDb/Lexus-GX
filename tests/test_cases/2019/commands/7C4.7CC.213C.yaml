@@ -1,0 +1,26 @@
+command_id: 7C4.7CC.213C
+test_cases:
+- expected_values:
+    GX_BLOWER_MOTOR_SPEED_LEVEL: 0
+  response: 7CC03613C00
+- expected_values:
+    GX_BLOWER_MOTOR_SPEED_LEVEL: 1
+  response: 7CC03613C01
+- expected_values:
+    GX_BLOWER_MOTOR_SPEED_LEVEL: 2
+  response: 7CC03613C02
+- expected_values:
+    GX_BLOWER_MOTOR_SPEED_LEVEL: 3
+  response: 7CC03613C03
+- expected_values:
+    GX_BLOWER_MOTOR_SPEED_LEVEL: 4
+  response: 7CC03613C04
+- expected_values:
+    GX_BLOWER_MOTOR_SPEED_LEVEL: 7
+  response: 7CC03613C07
+- expected_values:
+    GX_BLOWER_MOTOR_SPEED_LEVEL: 13
+  response: 7CC03613C0D
+- expected_values:
+    GX_BLOWER_MOTOR_SPEED_LEVEL: 18
+  response: 7CC03613C12

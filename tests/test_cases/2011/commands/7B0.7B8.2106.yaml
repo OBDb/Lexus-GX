@@ -1,0 +1,34 @@
+command_id: 7B0.7B8.2106
+test_cases:
+- expected_values:
+    GX_YAW_RATE2: 0
+    GX_YAW_RATE_7B0: 0
+  response: |-
+    21061
+    7B805610680800F
+- expected_values:
+    GX_YAW_RATE2: 0
+    GX_YAW_RATE_7B0: 0
+  response: |-
+    21061
+    7B805610680802D
+- expected_values:
+    GX_YAW_RATE2: -4
+    GX_YAW_RATE_7B0: -9
+  response: 7B8056106777C40
+- expected_values:
+    GX_YAW_RATE2: -2
+    GX_YAW_RATE_7B0: 0
+  response: 7B8056106807ED4
+- expected_values:
+    GX_YAW_RATE2: 0
+    GX_YAW_RATE_7B0: 0
+  response: 7B8056106808000
+- expected_values:
+    GX_YAW_RATE2: 0
+    GX_YAW_RATE_7B0: 3
+  response: 7B8056106838096
+- expected_values:
+    GX_YAW_RATE2: 1
+    GX_YAW_RATE_7B0: 3
+  response: 7B805610683810E

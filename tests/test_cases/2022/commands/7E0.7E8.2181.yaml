@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2181
+test_cases:
+- expected_values:
+    GX_SPD_NT: 0
+  response: '7E80461810000'
+- expected_values:
+    GX_SPD_NT: 2150
+  response: 7E80461812B87
+- expected_values:
+    GX_SPD_NT: 4400
+  response: '7E80461815846'

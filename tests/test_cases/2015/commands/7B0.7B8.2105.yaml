@@ -1,0 +1,50 @@
+command_id: 7B0.7B8.2105
+test_cases:
+- expected_values:
+    GX_DECEL: -0.92682
+    GX_DECEL2: 0.07129
+  response: |-
+    7B810096105798002F7
+    7B8210004B600000000
+- expected_values:
+    GX_DECEL: -0.78424
+    GX_DECEL2: -0.92682
+  response: |-
+    7B8100961057A7902DA
+    7B82100018900000000
+- expected_values:
+    GX_DECEL: -0.78424
+    GX_DECEL2: -0.92682
+  response: |-
+    7B8100961057A7903FC
+    7B82100014100000000
+- expected_values:
+    GX_DECEL: -0.78424
+    GX_DECEL2: 1.06941
+  response: |-
+    7B8100961057A870350
+    7B82100024F00000000
+- expected_values:
+    GX_DECEL: -0.64165
+    GX_DECEL2: -0.78424
+  response: |-
+    7B8100961057B7A02BF
+    7B82100007000000000
+- expected_values:
+    GX_DECEL: -0.64165
+    GX_DECEL2: -0.78424
+  response: |-
+    7B8100961057B7A0300
+    7B82100FDDC00000000
+- expected_values:
+    GX_DECEL: 0.21388
+    GX_DECEL2: 0.64165
+  response: |-
+    7B8100961058184033C
+    7B8210DFFDA00000000
+- expected_values:
+    GX_DECEL: 0.49906
+    GX_DECEL2: 0.07129
+  response: |-
+    7B81009610583800577
+    7B82113145400000000

@@ -1,0 +1,56 @@
+command_id: 7B0.7B8.2147
+test_cases:
+- expected_values:
+    GX_LAT_G: 0
+    GX_LNG_G: 0
+    GX_STEER_ANGLE: -97.5
+    GX_YAW_RATE: -7
+  response: 7B80761470000797C31
+- expected_values:
+    GX_LAT_G: 0
+    GX_LNG_G: 0
+    GX_STEER_ANGLE: -0.1
+    GX_YAW_RATE: 0
+  response: 7B80761470000807FFF
+- expected_values:
+    GX_LAT_G: 0
+    GX_LNG_G: 0
+    GX_STEER_ANGLE: 0
+    GX_YAW_RATE: 0
+  response: 7B80761470000808000
+- expected_values:
+    GX_LAT_G: 0
+    GX_LNG_G: -0.02
+    GX_STEER_ANGLE: -115.3
+    GX_YAW_RATE: -2
+  response: 7B807614700FF7E7B7F
+- expected_values:
+    GX_LAT_G: 0.04
+    GX_LNG_G: 0.04
+    GX_STEER_ANGLE: 618.8
+    GX_YAW_RATE: 10
+  response: 7B807614702028A982C
+- expected_values:
+    GX_LAT_G: 0.2
+    GX_LNG_G: -0.12
+    GX_STEER_ANGLE: 623.2
+    GX_YAW_RATE: 38
+  response: 7B80761470AFAA69858
+- expected_values:
+    GX_LAT_G: -0.42
+    GX_LNG_G: -0.02
+    GX_STEER_ANGLE: -278.5
+    GX_YAW_RATE: -32
+  response: 7B8076147EBFF60751F
+- expected_values:
+    GX_LAT_G: -0.16
+    GX_LNG_G: 0.06
+    GX_STEER_ANGLE: -593.7
+    GX_YAW_RATE: -25
+  response: 7B8076147F8036768CF
+- expected_values:
+    GX_LAT_G: -0.02
+    GX_LNG_G: 0
+    GX_STEER_ANGLE: -391.1
+    GX_YAW_RATE: -6
+  response: 7B8076147FF007A70B9

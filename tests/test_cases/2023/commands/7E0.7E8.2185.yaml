@@ -3,7 +3,7 @@ test_cases:
 - expected_values:
     GX_GEAR: 1
     GX_GEAR_LOCKUP: 0
-  response: '7E8056185010010'
+  response: '7E8056185010000'
 - expected_values:
     GX_GEAR: 1
     GX_GEAR_LOCKUP: 0
@@ -20,10 +20,6 @@ test_cases:
   response: |-
     7E8056185010010
     7E8064100BFBFE893
-- expected_values:
-    GX_GEAR: 2
-    GX_GEAR_LOCKUP: 0
-  response: '7E8056185020000'
 - expected_values:
     GX_GEAR: 4
     GX_GEAR_LOCKUP: 0

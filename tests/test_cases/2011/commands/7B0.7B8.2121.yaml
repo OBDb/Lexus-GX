@@ -1,0 +1,18 @@
+command_id: 7B0.7B8.2121
+test_cases:
+- expected_values:
+    GX_VSS_V1: 0
+  response: |-
+    21211
+    7B803612100
+- expected_values:
+    GX_VSS_V1: 28.16
+  response: |-
+    21211
+    7B803612116
+- expected_values:
+    GX_VSS_V1: 0
+  response: 7B803612100
+- expected_values:
+    GX_VSS_V1: 43.52
+  response: 7B803612122

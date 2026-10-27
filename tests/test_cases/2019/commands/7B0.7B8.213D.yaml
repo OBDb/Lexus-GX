@@ -1,0 +1,9 @@
+command_id: 7B0.7B8.213D
+test_cases:
+- expected_values:
+    GX_ABS_WARNING: 0
+    GX_BRAKE_WARNING: 0
+    GX_BUZZER: 0
+    GX_ECB_WARNING: 0
+    GX_SLIP_INDICATOR: 0
+  response: 7B805613D000000

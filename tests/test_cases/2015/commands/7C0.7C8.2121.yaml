@@ -1,0 +1,26 @@
+command_id: 7C0.7C8.2121
+test_cases:
+- expected_values:
+    GX_VSS_7C0: 0
+  response: 7C803612100
+- expected_values:
+    GX_VSS_7C0: 7
+  response: 7C803612107
+- expected_values:
+    GX_VSS_7C0: 12
+  response: 7C80361210C
+- expected_values:
+    GX_VSS_7C0: 27
+  response: 7C80361211B
+- expected_values:
+    GX_VSS_7C0: 37
+  response: 7C803612125
+- expected_values:
+    GX_VSS_7C0: 46
+  response: 7C80361212E
+- expected_values:
+    GX_VSS_7C0: 48
+  response: 7C803612130
+- expected_values:
+    GX_VSS_7C0: 51
+  response: 7C803612133

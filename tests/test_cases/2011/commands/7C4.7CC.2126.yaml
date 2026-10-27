@@ -1,0 +1,18 @@
+command_id: 7C4.7CC.2126
+test_cases:
+- expected_values:
+    GX_ECT: 84.25
+  response: |-
+    2126
+    7CC036126ED
+- expected_values:
+    GX_ECT: 87.75
+  response: |-
+    21261
+    7CC036126F7
+- expected_values:
+    GX_ECT: 16
+  response: 7CC0361262A
+- expected_values:
+    GX_ECT: 88.8
+  response: 7CC036126FA

@@ -1,0 +1,26 @@
+command_id: 7B0.7B8.211F
+test_cases:
+- expected_values:
+    GX_PARKING_BRAKE_7B0: 0
+    GX_STOP_LIGHT: 0
+  response: 7B804611F0000
+- expected_values:
+    GX_PARKING_BRAKE_7B0: 0
+    GX_STOP_LIGHT: 0
+  response: 7B804611F0020
+- expected_values:
+    GX_PARKING_BRAKE_7B0: 1
+    GX_STOP_LIGHT: 0
+  response: 7B804611F4000
+- expected_values:
+    GX_PARKING_BRAKE_7B0: 0
+    GX_STOP_LIGHT: 1
+  response: 7B804611F8000
+- expected_values:
+    GX_PARKING_BRAKE_7B0: 0
+    GX_STOP_LIGHT: 1
+  response: 7B804611F8020
+- expected_values:
+    GX_PARKING_BRAKE_7B0: 1
+    GX_STOP_LIGHT: 1
+  response: 7B804611FC020

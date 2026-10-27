@@ -1,0 +1,18 @@
+command_id: 7C4.7CC.2121
+test_cases:
+- expected_values:
+    GX_CABIN_T: 18.5
+  response: |-
+    21211
+    7CC03612164
+- expected_values:
+    GX_CABIN_T: 21.5
+  response: |-
+    21211
+    7CC03612170
+- expected_values:
+    GX_CABIN_T: 6.75
+  response: 7CC03612135
+- expected_values:
+    GX_CABIN_T: 21.75
+  response: 7CC03612171

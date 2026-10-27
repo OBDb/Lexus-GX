@@ -1,0 +1,44 @@
+command_id: 7B0.7B8.2146
+test_cases:
+- expected_values:
+    GX_ZP_DEC: 0
+    GX_ZP_DEC2: 0
+    GX_ZP_YAW_RATE: 0
+  response: |-
+    7B8100961460000807F
+    7B821B0FF0500000000
+- expected_values:
+    GX_ZP_DEC: 0
+    GX_ZP_DEC2: 0
+    GX_ZP_YAW_RATE: 0
+  response: |-
+    7B8100961460000807F
+    7B821BFFF0200000000
+- expected_values:
+    GX_ZP_DEC: 0
+    GX_ZP_DEC2: 0
+    GX_ZP_YAW_RATE: 0
+  response: |-
+    7B8100961460000807F
+    7B821D3FF0100000000
+- expected_values:
+    GX_ZP_DEC: 0
+    GX_ZP_DEC2: 0
+    GX_ZP_YAW_RATE: 0
+  response: |-
+    7B8100961460000807F
+    7B821D3FF0E00000000
+- expected_values:
+    GX_ZP_DEC: 0
+    GX_ZP_DEC2: 0
+    GX_ZP_YAW_RATE: 0
+  response: |-
+    7B8100961460000807F
+    7B821F0FF0400000000
+- expected_values:
+    GX_ZP_DEC: 0
+    GX_ZP_DEC2: 0
+    GX_ZP_YAW_RATE: 0
+  response: |-
+    7B81009614600008080
+    7B82100FF0100000000

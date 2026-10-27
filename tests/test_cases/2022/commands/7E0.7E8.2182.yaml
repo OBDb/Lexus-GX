@@ -1,0 +1,30 @@
+command_id: 7E0.7E8.2182
+test_cases:
+- expected_values:
+    GX_ATF_PAN_T: 35.625
+    GX_ATF_TQC_T: 40
+  response: 7E80661824BA05000
+- expected_values:
+    GX_ATF_PAN_T: 38.75
+    GX_ATF_TQC_T: 39.375
+  response: 7E80661824EC04F60
+- expected_values:
+    GX_ATF_PAN_T: 40
+    GX_ATF_TQC_T: 42.5
+  response: '7E806618250005280'
+- expected_values:
+    GX_ATF_PAN_T: 41.875
+    GX_ATF_TQC_T: 46.25
+  response: 7E806618251E05640
+- expected_values:
+    GX_ATF_PAN_T: 45
+    GX_ATF_TQC_T: 46.875
+  response: 7E8066182550056E0
+- expected_values:
+    GX_ATF_PAN_T: 93.125
+    GX_ATF_TQC_T: 103.125
+  response: 7E806618285208F20
+- expected_values:
+    GX_ATF_PAN_T: 94.375
+    GX_ATF_TQC_T: 103.75
+  response: 7E806618286608FC0

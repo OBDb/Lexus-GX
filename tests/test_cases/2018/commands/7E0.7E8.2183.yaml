@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2183
+test_cases:
+- expected_values:
+    GX_G_SENS_CALIBRATION: 0
+    GX_G_SENS_LEARNING: 6.80176
+    GX_TRANS_OIL_PRESS: 0
+  response: 7E80561830015C4
+- expected_values:
+    GX_G_SENS_CALIBRATION: 0
+    GX_G_SENS_LEARNING: 6.80298
+    GX_TRANS_OIL_PRESS: 0
+  response: 7E80561830015C5
+- expected_values:
+    GX_G_SENS_CALIBRATION: 0
+    GX_G_SENS_LEARNING: 6.8042
+    GX_TRANS_OIL_PRESS: 0
+  response: 7E80561830015C6
