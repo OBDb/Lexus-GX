@@ -7,4 +7,4 @@ test_cases:
 - expected_values:
     GX_G_SENS_CALIBRATION: 0
     GX_TRANS_OIL_PRESS: 0
-  response: 7E804618309DB
+  response: 7E804618309DC
