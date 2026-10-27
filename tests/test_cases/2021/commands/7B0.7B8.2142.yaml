@@ -1,0 +1,32 @@
+command_id: 7B0.7B8.2142
+test_cases:
+- expected_values:
+    GX_FL_ACC: 0
+    GX_FR_ACC: 0
+    GX_RL_ACC: 0
+    GX_RR_ACC: 0
+  response: 7B806614200000000
+- expected_values:
+    GX_FL_ACC: 0
+    GX_FR_ACC: 0
+    GX_RL_ACC: 255
+    GX_RR_ACC: 0
+  response: 7B8066142000000FF
+- expected_values:
+    GX_FL_ACC: 0
+    GX_FR_ACC: 0
+    GX_RL_ACC: 0
+    GX_RR_ACC: 255
+  response: 7B80661420000FF00
+- expected_values:
+    GX_FL_ACC: 255
+    GX_FR_ACC: 0
+    GX_RL_ACC: 0
+    GX_RR_ACC: 0
+  response: 7B806614200FF0000
+- expected_values:
+    GX_FL_ACC: 0
+    GX_FR_ACC: 255
+    GX_RL_ACC: 0
+    GX_RR_ACC: 0
+  response: 7B8066142FF000000

@@ -1,0 +1,8 @@
+command_id: 7C0.7C8.2168
+test_cases:
+- expected_values:
+    GX_RHEOSTAT: 193
+  response: 7C8036168C1
+- expected_values:
+    GX_RHEOSTAT: 255
+  response: 7C8036168FF

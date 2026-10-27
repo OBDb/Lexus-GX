@@ -1,0 +1,7 @@
+command_id: 7C0.7C8.2112
+test_cases:
+- expected_values:
+    GX_CHECK_ENGINE: 0
+    GX_P_SEATBELT_BUCKLE: 0
+    GX_TAIL_CANCEL: 0
+  response: 7C806611200000000

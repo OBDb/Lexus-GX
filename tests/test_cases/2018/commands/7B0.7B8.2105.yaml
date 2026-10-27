@@ -1,0 +1,68 @@
+command_id: 7B0.7B8.2105
+test_cases:
+- expected_values:
+    GX_DECEL: -1.35459
+    GX_DECEL2: 1.35459
+  response: |-
+    7B81009610576890353
+    7B82100FFED00000000
+- expected_values:
+    GX_DECEL: -1.06941
+    GX_DECEL2: 0.92682
+  response: |-
+    7B8100961057886029E
+    7B8210001C500000000
+- expected_values:
+    GX_DECEL: -0.21388
+    GX_DECEL2: 0.35647
+  response: |-
+    7B8100961057E8201FF
+    7B82100FE2500000000
+- expected_values:
+    GX_DECEL: -0.07129
+    GX_DECEL2: -0.35647
+  response: |-
+    7B8100961057F7D0702
+    7B8211F0ABC00000000
+- expected_values:
+    GX_DECEL: 0.07129
+    GX_DECEL2: -0.49906
+  response: |-
+    7B810096105807C051D
+    7B821190CD000000000
+- expected_values:
+    GX_DECEL: 0.21388
+    GX_DECEL2: -0.07129
+  response: |-
+    7B810096105817F051F
+    7B8211C0C9F00000000
+- expected_values:
+    GX_DECEL: 0.21388
+    GX_DECEL2: 0.21388
+  response: |-
+    7B810096105818104EB
+    7B82100001000000000
+- expected_values:
+    GX_DECEL: 0.35647
+    GX_DECEL2: 0.07129
+  response: |-
+    7B81009610582800512
+    7B8212F12AF00000000
+- expected_values:
+    GX_DECEL: 0.78424
+    GX_DECEL2: -2.21012
+  response: |-
+    7B81009610585700712
+    7B821321B5C00000000
+- expected_values:
+    GX_DECEL: 1.06941
+    GX_DECEL2: -0.78424
+  response: |-
+    7B810096105877A09CF
+    7B82141257D00000000
+- expected_values:
+    GX_DECEL: 1.63976
+    GX_DECEL2: -0.78424
+  response: |-
+    7B8100961058B7A078A
+    7B8215522F600000000

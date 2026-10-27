@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.21DA
+test_cases:
+- expected_values:
+    GX_GEAR_V2: 1
+  response: 7E80561DA010400
+- expected_values:
+    GX_GEAR_V2: 3
+  response: 7E80561DA030000
+- expected_values:
+    GX_GEAR_V2: 3
+  response: 7E80561DA030400
+- expected_values:
+    GX_GEAR_V2: 4
+  response: 7E80561DA040400
+- expected_values:
+    GX_GEAR_V2: 21
+  response: 7E80561DA150400
+- expected_values:
+    GX_GEAR_V2: 85
+  response: 7E80561DA550400

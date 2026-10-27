@@ -1,0 +1,32 @@
+command_id: 7C0.7C8.2129
+test_cases:
+- expected_values:
+    GX_FLI_VOL: 30
+  response: 7C80361293C
+- expected_values:
+    GX_FLI_VOL: 31
+  response: 7C80361293E
+- expected_values:
+    GX_FLI_VOL: 32
+  response: 7C803612940
+- expected_values:
+    GX_FLI_VOL: 63
+  response: 7C80361297E
+- expected_values:
+    GX_FLI_VOL: 65
+  response: 7C803612982
+- expected_values:
+    GX_FLI_VOL: 67
+  response: 7C803612986
+- expected_values:
+    GX_FLI_VOL: 68
+  response: 7C803612988
+- expected_values:
+    GX_FLI_VOL: 72.5
+  response: 7C803612991
+- expected_values:
+    GX_FLI_VOL: 82
+  response: 7C8036129A4
+- expected_values:
+    GX_FLI_VOL: 82.5
+  response: 7C8036129A5

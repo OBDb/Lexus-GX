@@ -1,0 +1,38 @@
+command_id: 7B0.7B8.2103
+test_cases:
+- expected_values:
+    GX_TIRE_FL_SPD: 0
+    GX_TIRE_FR_SPD: 0
+    GX_TIRE_RL_SPD: 0
+    GX_TIRE_RR_SPD: 0
+  response: 7B80761030000000000
+- expected_values:
+    GX_TIRE_FL_SPD: 0
+    GX_TIRE_FR_SPD: 0
+    GX_TIRE_RL_SPD: 0
+    GX_TIRE_RR_SPD: 0
+  response: 7B807610300000000F0
+- expected_values:
+    GX_TIRE_FL_SPD: 129.28
+    GX_TIRE_FR_SPD: 129.28
+    GX_TIRE_RL_SPD: 130.56
+    GX_TIRE_RR_SPD: 129.28
+  response: 7B80761036565656600
+- expected_values:
+    GX_TIRE_FL_SPD: 129.28
+    GX_TIRE_FR_SPD: 129.28
+    GX_TIRE_RL_SPD: 130.56
+    GX_TIRE_RR_SPD: 130.56
+  response: 7B80761036565666600
+- expected_values:
+    GX_TIRE_FL_SPD: 130.56
+    GX_TIRE_FR_SPD: 129.28
+    GX_TIRE_RL_SPD: 130.56
+    GX_TIRE_RR_SPD: 130.56
+  response: 7B80761036566666600
+- expected_values:
+    GX_TIRE_FL_SPD: 130.56
+    GX_TIRE_FR_SPD: 130.56
+    GX_TIRE_RL_SPD: 130.56
+    GX_TIRE_RR_SPD: 130.56
+  response: 7B80761036666666600

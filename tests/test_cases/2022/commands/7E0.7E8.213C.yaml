@@ -1,0 +1,86 @@
+command_id: 7E0.7E8.213C
+test_cases:
+- expected_values:
+    GX_INJ_DUR_CYL_1: 1.853
+    GX_INJ_VOL_CYL_1: 7.5906250000000005e-05
+    GX_TOT_FT_1: 0
+  response: |-
+    7E81008613C097D073D
+    7E82180800000000000
+- expected_values:
+    GX_INJ_DUR_CYL_1: 1.62
+    GX_INJ_VOL_CYL_1: 8.7656250000000006e-05
+    GX_TOT_FT_1: 4.29688
+  response: |-
+    7E81008613C0AF50654
+    7E8218B870000000000
+- expected_values:
+    GX_INJ_DUR_CYL_1: 1.778
+    GX_INJ_VOL_CYL_1: 9.159375e-05
+    GX_TOT_FT_1: 0
+  response: |-
+    7E81008613C0B7306F2
+    7E821807B0000000000
+- expected_values:
+    GX_INJ_DUR_CYL_1: 2.334
+    GX_INJ_VOL_CYL_1: 9.240625e-05
+    GX_TOT_FT_1: 0.39062
+  response: |-
+    7E81008613C0B8D091E
+    7E821817F0000000000
+- expected_values:
+    GX_INJ_DUR_CYL_1: 2.36
+    GX_INJ_VOL_CYL_1: 0.00011
+    GX_TOT_FT_1: -0.78125
+  response: |-
+    7E81008613C0DA70938
+    7E8217E7A0000000000
+- expected_values:
+    GX_INJ_DUR_CYL_1: 2.403
+    GX_INJ_VOL_CYL_1: 0.00011
+    GX_TOT_FT_1: 6.25
+  response: |-
+    7E81008613C0E2B0963
+    7E821908D0000000000
+- expected_values:
+    GX_INJ_DUR_CYL_1: 2.829
+    GX_INJ_VOL_CYL_1: 0.00013
+    GX_TOT_FT_1: -0.39062
+  response: |-
+    7E81008613C10D60B0D
+    7E8217F830000000000
+- expected_values:
+    GX_INJ_DUR_CYL_1: 2.835
+    GX_INJ_VOL_CYL_1: 0.00016
+    GX_TOT_FT_1: -0.39062
+  response: |-
+    7E81008613C14020B13
+    7E8217F7E0000000000
+- expected_values:
+    GX_INJ_DUR_CYL_1: 8.836
+    GX_INJ_VOL_CYL_1: 0.00017
+    GX_TOT_FT_1: 0
+  response: |-
+    7E81008613C14FD2284
+    7E821807F0000000000
+- expected_values:
+    GX_INJ_DUR_CYL_1: 4.851
+    GX_INJ_VOL_CYL_1: 0.0002
+    GX_TOT_FT_1: 5.85938
+  response: |-
+    7E81008613C198712F3
+    7E8218F8F0000000000
+- expected_values:
+    GX_INJ_DUR_CYL_1: 7.939
+    GX_INJ_VOL_CYL_1: 0.00047
+    GX_TOT_FT_1: 6.64062
+  response: |-
+    7E81008613C3A331F03
+    7E821918F0000000000
+- expected_values:
+    GX_INJ_DUR_CYL_1: 11.2
+    GX_INJ_VOL_CYL_1: 0.00067
+    GX_TOT_FT_1: 5.07812
+  response: |-
+    7E81008613C542E2BC0
+    7E8218D8A0000000000

@@ -1,0 +1,25 @@
+command_id: 7E0.7E8.2128|f=2010-
+test_cases:
+- expected_values:
+    GX_ODO_7E0: 118756
+  response: |-
+    21281
+    7E805612801CFE4
+- expected_values:
+    GX_ODO_7E0: 116397
+  response: 7E805612801C6AD
+- expected_values:
+    GX_ODO_7E0: 116479
+  response: 7E805612801C6FF
+- expected_values:
+    GX_ODO_7E0: 116480
+  response: 7E805612801C700
+- expected_values:
+    GX_ODO_7E0: 124168
+  response: 7E805612801E508
+- expected_values:
+    GX_ODO_7E0: 156960
+  response: '7E8056128026520'
+- expected_values:
+    GX_ODO_7E0: null
+  response: 7E8056128FFFFFF

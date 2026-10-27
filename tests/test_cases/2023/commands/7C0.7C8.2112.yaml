@@ -1,0 +1,37 @@
+command_id: 7C0.7C8.2112
+test_cases:
+- expected_values:
+    GX_CHECK_ENGINE: 0
+    GX_P_SEATBELT_BUCKLE: 0
+    GX_TAIL_CANCEL: 0
+  response: |-
+    7C8100A611200000000
+    7C82100000000000000
+- expected_values:
+    GX_CHECK_ENGINE: 0
+    GX_P_SEATBELT_BUCKLE: 0
+    GX_TAIL_CANCEL: 0
+  response: |-
+    7C8100A611200000000
+    7C82102000000000000
+- expected_values:
+    GX_CHECK_ENGINE: 0
+    GX_P_SEATBELT_BUCKLE: 0
+    GX_TAIL_CANCEL: 0
+  response: |-
+    7C8100A611200000000
+    7C82110000020000000
+- expected_values:
+    GX_CHECK_ENGINE: 0
+    GX_P_SEATBELT_BUCKLE: 0
+    GX_TAIL_CANCEL: 0
+  response: |-
+    7C8100A611200200000
+    7C82100000000000000
+- expected_values:
+    GX_CHECK_ENGINE: 0
+    GX_P_SEATBELT_BUCKLE: 0
+    GX_TAIL_CANCEL: 0
+  response: |-
+    7C8100A611210000000
+    7C82100000000000000

@@ -1,0 +1,11 @@
+command_id: 7C4.7CC.214C
+test_cases:
+- expected_values:
+    GX_EVAP_TARG_T: 1.5
+  response: 7CC04614C8096
+- expected_values:
+    GX_EVAP_TARG_T: 2.36
+  response: 7CC04614C80EC
+- expected_values:
+    GX_EVAP_TARG_T: 2.7
+  response: 7CC04614C810E

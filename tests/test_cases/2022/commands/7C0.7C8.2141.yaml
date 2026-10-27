@@ -1,0 +1,26 @@
+command_id: 7C0.7C8.2141
+test_cases:
+- expected_values:
+    GX_OIL_CHANGE_ODO: 3057.7536
+  response: 7C803614113
+- expected_values:
+    GX_OIL_CHANGE_ODO: 3218.688
+  response: 7C803614114
+- expected_values:
+    GX_OIL_CHANGE_ODO: 3379.6224
+  response: 7C803614115
+- expected_values:
+    GX_OIL_CHANGE_ODO: 3540.5568
+  response: 7C803614116
+- expected_values:
+    GX_OIL_CHANGE_ODO: 3701.4912
+  response: 7C803614117
+- expected_values:
+    GX_OIL_CHANGE_ODO: 3862.4256
+  response: 7C803614118
+- expected_values:
+    GX_OIL_CHANGE_ODO: 4506.1632
+  response: 7C80361411C
+- expected_values:
+    GX_OIL_CHANGE_ODO: 5149.9008
+  response: 7C803614120

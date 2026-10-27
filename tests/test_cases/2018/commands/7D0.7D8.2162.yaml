@@ -1,0 +1,16 @@
+command_id: 7D0.7D8.2162
+test_cases:
+- expected_values:
+    GX_PARKING_BRAKE: 0
+  response: |-
+    2162
+    7D80461620100
+- expected_values:
+    GX_PARKING_BRAKE: 0
+  response: 7D80461620000
+- expected_values:
+    GX_PARKING_BRAKE: 0
+  response: 7D80461620188
+- expected_values:
+    GX_PARKING_BRAKE: 0
+  response: 7D80461621900

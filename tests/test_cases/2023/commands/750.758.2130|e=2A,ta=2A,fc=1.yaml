@@ -10,10 +10,25 @@ test_cases:
     7582A10076130000000
     7582A21000000000000
 - expected_values:
-    GX_TP_SPARE_V1: 2.91379
+    GX_TP_SPARE_V1: 2.17241
   response: |-
     7582A10076130000000
-    7582A2100C600000000
+    7582A21009B00000000
+- expected_values:
+    GX_TP_SPARE_V1: 2.24138
+  response: |-
+    7582A10076130000000
+    7582A21009F00000000
+- expected_values:
+    GX_TP_SPARE_V1: 2.53448
+  response: |-
+    7582A10076130000000
+    7582A2100B000000000
+- expected_values:
+    GX_TP_RL_V1: 2.41379
+  response: |-
+    7582A100761300000A9
+    7582A21000000000000
 - expected_values:
     GX_TP_RL_V1: 2.82759
     GX_TP_RR_V1: 2.86207
@@ -22,12 +37,6 @@ test_cases:
     7582A100761300000C1
     7582A21C3C200000000
 - expected_values:
-    GX_TP_RL_V1: 2.84483
-    GX_TP_RR_V1: 2.87931
-  response: |-
-    7582A100761300000C2
-    7582A21C40000000000
-- expected_values:
     GX_TP_FR_V1: 2.7069
     GX_TP_RL_V1: 2.77586
     GX_TP_RR_V1: 2.7931
@@ -35,21 +44,6 @@ test_cases:
   response: |-
     7582A1007613000BABE
     7582A21BFC000000000
-- expected_values:
-    GX_TP_FL_V1: 2.81034
-    GX_TP_RL_V1: 2.48276
-  response: |-
-    7582A10076130C000AD
-    7582A21000000000000
-- expected_values:
-    GX_TP_FL_V1: 2.81034
-    GX_TP_FR_V1: 2.46552
-    GX_TP_RL_V1: 2.48276
-    GX_TP_RR_V1: 2.53448
-    GX_TP_SPARE_V1: 2.51724
-  response: |-
-    7582A10076130C0ACAD
-    7582A21B0AF00000000
 - expected_values:
     GX_TP_FL_V1: 3.10345
     GX_TP_FR_V1: 2.87931
