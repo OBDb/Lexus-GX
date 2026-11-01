@@ -56,3 +56,6 @@ test_cases:
 - expected_values:
     GX_ODO_7E0: 65556
   response: '7E8056128010014'
+- expected_values:
+    GX_ODO_7E0: null
+  response: 7E8056128FFFFFF
