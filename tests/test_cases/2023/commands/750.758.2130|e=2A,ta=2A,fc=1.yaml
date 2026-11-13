@@ -20,10 +20,10 @@ test_cases:
     7582A10076130000000
     7582A21009F00000000
 - expected_values:
-    GX_TP_SPARE_V1: 2.53448
+    GX_TP_SPARE_V1: 2.25862
   response: |-
     7582A10076130000000
-    7582A2100B000000000
+    7582A2100A000000000
 - expected_values:
     GX_TP_RL_V1: 2.13793
   response: |-
