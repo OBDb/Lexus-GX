@@ -1,14 +1,18 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    GX_ENG_ODO: 34392
+    GX_ENG_ODO_RAW: 34392
+    GX_ENG_ODO_UNIT: MI
   response: '7080762010302008658'
 - expected_values:
-    GX_ENG_ODO: 34557
+    GX_ENG_ODO_RAW: 34557
+    GX_ENG_ODO_UNIT: MI
   response: 70807620103020086FD
 - expected_values:
-    GX_ENG_ODO: 34597
+    GX_ENG_ODO_RAW: 34597
+    GX_ENG_ODO_UNIT: MI
   response: '7080762010302008725'
 - expected_values:
-    GX_ENG_ODO: 34921
+    GX_ENG_ODO_RAW: 34921
+    GX_ENG_ODO_UNIT: MI
   response: '7080762010302008869'
